@@ -1,0 +1,355 @@
+## Awesome Amiga games
+
+- Agony
+- Alien Breed
+- Ambermoon
+- Another World
+- **Apidya**
+- Arabian Nights
+- B.A.T. II
+- **Battle Squadron**
+- **BC Kid**
+- Benefactor
+- **Black Crypt**
+- Bubble and Squeak
+- Cadaver
+- Captive
+- **The Chaos Engine**
+- Cruise for a Corpse
+- Darkmere
+- Defender of the Crown
+- Disposable Hero
+- Dragonstone
+- Dreamweb
+- **Dune**
+- **Dyna Blaster**
+- **Fire and Ice**
+- **First Samurai**
+- **Flashback**
+- Gemini Wing
+- **Golden Axe**
+- **Gods**
+- Great Giana Sisters
+- Harlequin
+- Hybris
+- IK+
+- Katakis
+- Kick-off 2
+- Kid Chaos
+- Leander
+- **Lemmings**
+- Lemmings 2
+- Lethal Xcess: Wings of Death II
+- Lionheart
+- Llamatron
+- **Lotus Esprit Turbo Challenge**
+- **Lotus Turbo Challenge 2**
+- Lure of the Tempress
+- Magic Pockets
+- Le Manoir de Mortevielle
+- Maupiti Island
+- Mega Lo Mania
+- Mikro Mortal Tennis
+- **Moonstone**
+- Naughty Ones
+- Nitro
+- **Operation Stealth**
+- Overdrive
+- **Pang**
+- **Pinball Dreams**
+- **Pinball Fantasies**
+- Prince of Persia
+- Project X
+- Rainbow Island
+- **Rick Dangerous**
+- **Rick Dangerous II**
+- Road Rash
+- **Rodland**
+- Robocod - James Pond 2
+- Ruff 'n' Tumble
+- **The Secret of Monkey Island**
+- **Sensible Soccer**
+- **Shadow of the Beast**
+- Shadow of the Beast II
+- Shadow of the Beast III
+- Skidmarks
+- Soccer Kid
+- **Speedball 2: Brutal Deluxe**
+- Supercars II
+- Superfrog
+- Switchblade
+- Switchblade II
+- Syndicate
+- Toki
+- Turrican
+- **Turrican II**
+- Turrican 3
+- Xenon 2
+- Les Voyageurs du Temps
+- **Vroom**
+- Waxworks
+- Wings of Death
+- **Worms**
+
+## Awesome Mega Drive games
+
+- The Addams Family
+- The Adventures Of Batman & Robin
+- Aero Blasters (Air Buster) [Arcade Shmup]
+- Aladdin [Action / Platformer]
+- **Alien Soldier [Run and gun] = Now is time to the 68000 heart on fire!**
+- Alien Storm
+- Alisia Dragoon [Action / Platformer]
+- Atomic Robo-Kid
+- Atomic Runner
+- Bare Knuckles (Streets of Rage) [Beat 'em up] = Musique, 2 Players
+- **Bare Knuckles II (Streets of Rage II) [Beat 'em up] = Musique, 2 Players**
+- Bare Knuckles III (Streets of Rage III) [Beat 'em up] = Musique, 2 Players
+- Battle Maniacs (aka Trouble Shooters) [Shmup]
+- Battletoads
+- Bio-Hazard Battle (Crying: Aseimei Sensou) [Shmup]
+- **Castlevania Bloodlines (aka Vampire Killer) [Action / Platformer] = Musique**
+- **Castle of Illusion [Platformer]**
+- **Chaos Engine [Run and gun (Euro)] = 2 Players**
+- **Contra The Hard Corps [Run and gun] = 2 Players**
+- Crusader of Centy (Soleil) [ARPG]
+- Devil Crash MD
+- Double Dragon
+- Dynamite Headdy [Platformer]
+- Elemental Master [Shmup] = Musique
+- **Eliminate Down [Shmup]**
+- El Viento [Action / Platformer]
+- Fire Shark [Arcade Shmup]
+- **Flashback**
+- **Gaiares [Shmup]**
+- Ghouls'n Ghosts [Arcade Action / Platformer]
+- **Gley Lancer (Advanced Busterhawk Gley Lancer) [Shmup]**
+- Gods [Action / Platformer (Euro)]
+- **Golden Axe [Arcade Beat 'em up] = 2 Players**
+- Granada X
+- The Great Circus Mystery (The Magical Quest 2 Starring Mickey and Minnie)
+- **Gunstar Heroes [Run and gun] = 2 Players**
+- Hellfire [Arcade Shmup] = Musique
+- High Seas Havoc
+- Insector X [Shmup]
+- Joe & Mac
+- Mazin Saga/Mazin Wars
+- **Mega Turrican**
+- Mercs (Senjou No Ookami II)
+- Midnight Resistance
+- Moonwalker
+- Mortal Kombat
+- Mr. Nutz
+- **Musha Aleste [Shmup] = Musique**
+- Outrun [Arcade Racing] = Musique
+- Phantasy Star II [JRPG] = Musique
+- **Phantasy Star IV [JRPG] = Musique**
+- Phelios [Shmup]
+- Pulseman
+- Punisher
+- **Puyo Puyo Tsuu [Arcade Vs. Puzzle] = 2 Players**
+- **Quackshot [Platformer]**
+- Raiden Trad [Arcade Shmup]
+- Rainbow Island [Arcade Platformer]
+- Ranger X
+- Ristar
+- **Road Rash [Racing] = Musique**
+- Robocod [Platformer (Euro)]
+- Rocket Knight Adventure
+- Rolling Thunder 2
+- Rolling Thunder 3
+- **Shadow Dancer [Action]**
+- Shining Force II [TRPG]
+- **Snow Bros [Arcade Platformer] = 2 Players**
+- **Sonic [Platformer] = Musique**
+- Spider-Man: Maximum Carnage
+- **Splatter House Part 2 [Arcade Action]**
+- Splatter House 3
+- Steel Empire (Empire of Steel) [Shmup]
+- **Street Fighter II Champion Edition**
+- **Strider [Arcade Action / Platformer]**
+- Super Hang-On [Arcade Racing] = Musique
+- Sword of Vermillon [ARPG]
+- **The Super Shinobi [Action] = Musique**
+- **The Super Shinobi II (aka Shinobi III) [Action]**
+- **Tatsujin (aka Truxton) [Arcade Shmup] = Musique**
+- **Thunderforce III [Shmup] = Musique**
+- **Thunderforce IV [Shmup] = Musique**
+- Twin Cobra [Arcade Shmup]
+- Twinkle Tale
+- Undead Line [Shmup]
+- V-V (Grindstormer) [Arcade Shmup]
+- Valis III [Action / Platformer]
+- Vapor Trail [Shmup]
+- Verytex [Shmup] = Musique
+- Whip Rush [Shmup]
+- Wings of Wor (Gynoug) [Shmup]
+- **Wonderboy in Monster World [Platformer / ARPG]**
+- Wonderboy Monster World IV [Platformer / ARPG]
+- World of Illusion [Platformer]
+- X-Men II [Action]
+- Ys III [ARPG] = Musique
+- Yu Yu Hakusho
+- Warsong [RPG]
+- Zero Wing [Arcade Shmup] = Musique
+
+## Awesome Super Famicom games
+
+- Actraiser
+- Actraiser 2
+- Addams Family
+- The Adventures of Batman & Robin
+- Aero the Acro-Bat 2
+- **Akumajo Dracula (Super Castlevania IV)**
+- Akumajo Dracula XX (Castlevania: Dracula X)
+- Aladdin
+- Alien 3
+- Aero Fighters
+- **Area 88 (U.N. Squadron)**
+- **Axelay**
+- **Batman Returns**
+- BioMetal
+- Blackthorne
+- BlaZeon: The Bio-Cyborg Challenge
+- Bonkers
+- Breath of Fire
+- Breath of Fire II
+- The Chaos Engine
+- **Chrono Trigger**
+- The Combatribes
+- Captain Commando
+- **Contra Spirit / Contra III**
+- Cybernator
+- Death and Return of Superman
+- Demon's Crest
+- **Donkey Kong Country**
+- **Donkey Kong Country 2**
+- DoReMi Fantasy
+- Dragon Quest V
+- Dragon Quest VI
+- Dragon View
+- Earth Defence Force
+- Earthworm Jim
+- **Earthbound**
+- **F-Zero**
+- **Final Fantasy IV**
+- **Final Fantasy V**
+- **Final Fantasy VI**
+- **Final Fight Guy (Final Fight)**
+- Final Fight 2
+- **Final Fight Tough (Final Fight 3)**
+- First Samurai
+- Front Mission: Gun Hazard
+- Ghost Chaser Densei (Denjin Makai)
+- Gods
+- **Gokujou Parodius**
+- **Gradius III**
+- Gunforce
+- Hagane
+- Hamelin no Violin Hiki
+- Hook
+- The Ignition Factor
+- Illusion of Gaia (Illusion of Time)
+- Incantation
+- Iron Commando: Koutetsu no Senshi
+- James Pond II - Robocod
+- **Jikkyou Oshaberi Parodius**
+- Joe & Mac
+- KiKi KaiKai (Pocky & Rocky)
+- **The King of Dragons**
+- **Kirby's Dream Land 3**
+- **Kirby Super Star**
+- **Knights of the Round**
+- Legend
+- Legend of the Mystical Ninja
+- **The Legend of Zelda: A Link to the Past**
+- Lufia II
+- Magical Drop 2
+- The Magical Quest Starring Mickey Mouse
+- The Magical Quest 2 Starring Mickey and Minnie (The Great Circus Mystery starring Mickey and Minnie Mouse)
+- The Magical Quest 3 Starring Mickey and Donald (Mickey to Donald: Magical Adventure 3)
+- Magic Sword
+- Magical Pop'n
+- Majyuuou
+- Märchen Adventure Cotton 100%
+- Maui Mallard in Cold Shadow
+- Mega Man & Bass
+- Mega Man 7
+- Mega Man X
+- Metal Warriors
+- Mortal Kombat II
+- Mr. Nutz
+- Nightmare Busters
+- **Ninja Warriors Again**
+- Nosferatu
+- Ogre Battle: March of the Black Queen
+- **Parodius Da!**
+- Phalanx
+- Pinball Dreams
+- Pinball Fantasies
+- Pirates of Darkwater
+- Pop'n TwinBee
+- Popful Mail
+- Prince of Persia
+- Puzzle Bobble
+- **R-Type III: The Third Lightning**
+- Raiden Trad
+- Realm
+- Rendering Ranger R2
+- Rock'n'Roll Racing
+- Run Saber
+- Rushing Beat (Rival Turf)
+- **Rushing Beat Ran (Brawl Brothers)**
+- **Rushing Beat Shura (The Peace Keepers)**
+- **Secret of Mana**
+- The Shadow
+- Skyblazer
+- Soccer Kid
+- Sonic Blastman II
+- Sonic Wings
+- Soul Blazer
+- Sparkster
+- Spider-Man: Maximum Carnage
+- **Star Fox**
+- **Street Fighter II Turbo**
+- Street Fighter Zero 2
+- Street Racer
+- Strike Gunner STG
+- Sunset Riders
+- **Super Aleste (Space Megaforce)**
+- **Super Dimension Fortress Macross: Scrambled Valkyrie**
+- **Street Fighter II Turbo**
+- Super Bomberman 3
+- Super Bonk
+- Super Buster Bros
+- Super Double Dragon
+- **Super Ghouls'n'Ghosts**
+- **Super Mario All Stars [+ SMW]**
+- **Super Mario Kart**
+- **Super Mario RPG**
+- **Super Mario World (jap ou us)**
+- **Super Mario World 2: Yoshi’s Island**
+- **Super Metroid**
+- Super Ninja Kun
+- Super Punchout
+- **Super Puyo Puyo**
+- **Super R-Type**
+- Super Street Fighter II: The New Challengers
+- Super Soccer
+- Super Tennis
+- Super SWIV
+- Super Turrican
+- Super Turrican 2
+- **Teenage Mutant Ninja Turtles IV - Turtles in Time**
+- Terranigma
+- Thunder Spirits
+- **Top Gear**
+- Troddlers
+- The Twisted Tales of Spike McFang
+- Umihara Kawase
+- **Undercover Cops**
+- **Wild Guns**
+- X-Men: Mutant Apocalypse
+- Ys III: Wanderers From Ys
+- Zombies Ate my Neighbors
+

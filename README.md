@@ -1,3 +1,9 @@
+
+- [Awesome Amiga games](#awesome-amiga-games)
+- [Awesome Mega Drive games](#awesome-mega-drive-games)
+- [Awesome PC Engine games](#awesome-pc-engine-games)
+- [Awesome Super Famicom games](#awesome-super-famicom-games)
+
 ## Awesome Amiga games
 
 - Agony
@@ -193,6 +199,49 @@
 - Warsong [RPG]
 - Zero Wing [Arcade Shmup] = Musique
 
+## Awesome PC Engine games
+
+- **Adventure Island** (Wonder Boy III: The Dragon's Trap)
+- Aero Blasters
+- Air Zonk
+- Alien Crush
+- Bikkuriman World (Wonder Boy in Monster Land)
+- Coryoon - Child of Dragon
+- Cyber Core
+- Dead Moon
+- Detana!! TwinBee
+- **Devil Crash - Naxat Pinball**
+- Don Doko Don!
+- Download
+- Final Match Tennis
+- **Final Soldier**
+- **Gunhed** (Blazing Lazers)
+- **Gradius**
+- **Hana Taaka Daka!** (Super Long Nosed Goblin)
+- Image Fight
+- Jigoku Meguri
+- Kyuukyoku Tiger
+- **Magical Chase**
+- The New Zealand Story
+- Ordyne
+- **Parasol Stars - The Story of Bubble Bobble 3**
+- **Parodius Da! - Shinwa kara Owarai e**
+- **PC Denjin - Punkic Cyborgs**
+- **PC Genjin - Pithecanthropus Computerurus**
+- **PC Genjin 2 - Pithecanthropus Computerurus**
+- PC Genjin 3 - Pithecanthropus Computerurus
+- **R-Type**
+- Rabio Lepus Special
+- Raiden
+- **Saigo no Nindou** (Ninja Spirit)
+- **Salamander**
+- **Shinobi**
+- **Soldier Blade**
+- **Splatterhouse**
+- **Street Fighter II' - Champion Edition**
+- **Super Star Soldier**
+- Vigilante
+
 ## Awesome Super Famicom games
 
 - Actraiser
@@ -352,4 +401,3 @@
 - X-Men: Mutant Apocalypse
 - Ys III: Wanderers From Ys
 - Zombies Ate my Neighbors
-

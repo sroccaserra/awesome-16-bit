@@ -253,7 +253,6 @@
 - Akumajo Dracula XX (Castlevania: Dracula X)
 - Aladdin
 - Alien 3
-- Aero Fighters
 - **Area 88 (U.N. Squadron)**
 - **Axelay**
 - **Batman Returns**
@@ -324,7 +323,7 @@
 - Maui Mallard in Cold Shadow
 - Mega Man & Bass
 - Mega Man 7
-- Mega Man X
+- **Mega Man X**
 - Metal Warriors
 - Mortal Kombat II
 - Mr. Nutz
@@ -339,7 +338,7 @@
 - Pirates of Darkwater
 - Pop'n TwinBee
 - Popful Mail
-- Prince of Persia
+- **Prince of Persia**
 - Puzzle Bobble
 - **R-Type III: The Third Lightning**
 - Raiden Trad
@@ -355,7 +354,7 @@
 - Skyblazer
 - Soccer Kid
 - Sonic Blastman II
-- Sonic Wings
+- Sonic Wings (Aero Fighters)
 - Soul Blazer
 - Sparkster
 - Spider-Man: Maximum Carnage
@@ -367,16 +366,15 @@
 - Sunset Riders
 - **Super Aleste (Space Megaforce)**
 - **Super Dimension Fortress Macross: Scrambled Valkyrie**
-- **Street Fighter II Turbo**
 - Super Bomberman 3
 - Super Bonk
 - Super Buster Bros
 - Super Double Dragon
 - **Super Ghouls'n'Ghosts**
-- **Super Mario All Stars [+ SMW]**
+- **Super Mario All Stars**
 - **Super Mario Kart**
 - **Super Mario RPG**
-- **Super Mario World (jap ou us)**
+- **Super Mario World**
 - **Super Mario World 2: Yoshi’s Island**
 - **Super Metroid**
 - Super Ninja Kun

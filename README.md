@@ -9,7 +9,7 @@
 - Agony
 - Alien Breed
 - Ambermoon
-- Another World
+- **Another World**
 - **Apidya**
 - Arabian Nights
 - B.A.T. II
@@ -38,16 +38,15 @@
 - Great Giana Sisters
 - Harlequin
 - Hybris
-- IK+
+- **IK+**
 - Katakis
 - Kick-off 2
-- Kid Chaos
 - Leander
 - **Lemmings**
-- Lemmings 2
+- **Lemmings 2**
 - Lethal Xcess: Wings of Death II
 - Lionheart
-- Llamatron
+- **Llamatron**
 - **Lotus Esprit Turbo Challenge**
 - **Lotus Turbo Challenge 2**
 - Lure of the Tempress
@@ -65,8 +64,8 @@
 - **Pinball Dreams**
 - **Pinball Fantasies**
 - Prince of Persia
-- Project X
-- Rainbow Island
+- **Project X**
+- **Rainbow Island**
 - **Rick Dangerous**
 - **Rick Dangerous II**
 - Road Rash
@@ -76,7 +75,7 @@
 - **The Secret of Monkey Island**
 - **Sensible Soccer**
 - **Shadow of the Beast**
-- Shadow of the Beast II
+- **Shadow of the Beast II**
 - Shadow of the Beast III
 - Skidmarks
 - Soccer Kid
@@ -87,7 +86,7 @@
 - Switchblade II
 - Syndicate
 - Toki
-- Turrican
+- **Turrican**
 - **Turrican II**
 - Turrican 3
 - Xenon 2

@@ -200,11 +200,11 @@
 
 ## Awesome PC Engine games
 
-- **Adventure Island** (Wonder Boy III: The Dragon's Trap)
+- **Adventure Island (Wonder Boy III: The Dragon's Trap)**
 - Aero Blasters
 - Air Zonk
 - Alien Crush
-- Bikkuriman World (Wonder Boy in Monster Land)
+- **Bikkuriman World (Wonder Boy in Monster Land)**
 - Coryoon - Child of Dragon
 - Cyber Core
 - Dead Moon
@@ -212,6 +212,8 @@
 - **Devil Crash - Naxat Pinball**
 - Don Doko Don!
 - Download
+- Dragon Saber
+- Dragon Spirit
 - Final Match Tennis
 - **Final Soldier**
 - **Gunhed** (Blazing Lazers)

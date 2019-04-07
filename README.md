@@ -102,38 +102,38 @@
 - The Adventures Of Batman & Robin
 - Aero Blasters (Air Buster) [Arcade Shmup]
 - Aladdin [Action / Platformer]
-- **Alien Soldier [Run and gun] = Now is time to the 68000 heart on fire!**
+- **Alien Soldier** [Run and gun] = Now is time to the 68000 heart on fire!
 - Alien Storm
 - Alisia Dragoon [Action / Platformer]
 - Atomic Robo-Kid
 - Atomic Runner
 - Bare Knuckles (Streets of Rage) [Beat 'em up] = Musique, 2 Players
-- **Bare Knuckles II (Streets of Rage II) [Beat 'em up] = Musique, 2 Players**
+- **Bare Knuckles II (Streets of Rage II)** [Beat 'em up] = Musique, 2 Players
 - Bare Knuckles III (Streets of Rage III) [Beat 'em up] = Musique, 2 Players
 - Battle Maniacs (aka Trouble Shooters) [Shmup]
 - Battletoads
 - Bio-Hazard Battle (Crying: Aseimei Sensou) [Shmup]
-- **Castlevania Bloodlines (aka Vampire Killer) [Action / Platformer] = Musique**
-- **Castle of Illusion [Platformer]**
-- **Chaos Engine [Run and gun (Euro)] = 2 Players**
-- **Contra The Hard Corps [Run and gun] = 2 Players**
+- **Castlevania Bloodlines (aka Vampire Killer)** [Action / Platformer] = Musique
+- **Castle of Illusion** [Platformer]
+- **Chaos Engine** [Run and gun (Euro)] = 2 Players
+- **Contra The Hard Corps** [Run and gun] = 2 Players
 - Crusader of Centy (Soleil) [ARPG]
 - Devil Crash MD
 - Double Dragon
-- Dynamite Headdy [Platformer]
+- **Dynamite Headdy** [Platformer]
 - Elemental Master [Shmup] = Musique
-- **Eliminate Down [Shmup]**
-- El Viento [Action / Platformer]
+- **Eliminate Down** [Shmup]
+- **El Viento** [Action / Platformer]
 - Fire Shark [Arcade Shmup]
 - **Flashback**
-- **Gaiares [Shmup]**
+- **Gaiares** [Shmup]
 - Ghouls'n Ghosts [Arcade Action / Platformer]
-- **Gley Lancer (Advanced Busterhawk Gley Lancer) [Shmup]**
+- **Gley Lancer (Advanced Busterhawk Gley Lancer)** [Shmup]
 - Gods [Action / Platformer (Euro)]
-- **Golden Axe [Arcade Beat 'em up] = 2 Players**
+- **Golden Axe** [Arcade Beat 'em up] = 2 Players
 - Granada X
 - The Great Circus Mystery (The Magical Quest 2 Starring Mickey and Minnie)
-- **Gunstar Heroes [Run and gun] = 2 Players**
+- **Gunstar Heroes** [Run and gun] = 2 Players
 - Hellfire [Arcade Shmup] = Musique
 - High Seas Havoc
 - Insector X [Shmup]
@@ -143,43 +143,43 @@
 - Mercs (Senjou No Ookami II)
 - Midnight Resistance
 - Moonwalker
-- Mortal Kombat
+- Mortal Kombat II
 - Mr. Nutz
-- **Musha Aleste [Shmup] = Musique**
+- **Musha Aleste** [Shmup] = Musique
 - Outrun [Arcade Racing] = Musique
 - Phantasy Star II [JRPG] = Musique
-- **Phantasy Star IV [JRPG] = Musique**
+- **Phantasy Star IV** [JRPG] = Musique
 - Phelios [Shmup]
 - Pulseman
 - Punisher
-- **Puyo Puyo Tsuu [Arcade Vs. Puzzle] = 2 Players**
-- **Quackshot [Platformer]**
+- **Puyo Puyo Tsuu** [Arcade Vs. Puzzle] = 2 Players
+- **Quackshot** [Platformer]
 - Raiden Trad [Arcade Shmup]
 - Rainbow Island [Arcade Platformer]
 - Ranger X
 - Ristar
-- **Road Rash [Racing] = Musique**
+- **Road Rash** [Racing] = Musique
 - Robocod [Platformer (Euro)]
 - Rocket Knight Adventure
 - Rolling Thunder 2
 - Rolling Thunder 3
-- **Shadow Dancer [Action]**
+- **Shadow Dancer** [Action]
 - Shining Force II [TRPG]
-- **Snow Bros [Arcade Platformer] = 2 Players**
-- **Sonic [Platformer] = Musique**
+- **Snow Bros** [Arcade Platformer] = 2 Players
+- **Sonic** [Platformer] = Musique
 - Spider-Man: Maximum Carnage
-- **Splatter House Part 2 [Arcade Action]**
+- **Splatter House Part 2** [Arcade Action]
 - Splatter House 3
 - Steel Empire (Empire of Steel) [Shmup]
 - **Street Fighter II Champion Edition**
-- **Strider [Arcade Action / Platformer]**
+- **Strider** [Arcade Action / Platformer]
 - Super Hang-On [Arcade Racing] = Musique
 - Sword of Vermillon [ARPG]
-- **The Super Shinobi [Action] = Musique**
-- **The Super Shinobi II (aka Shinobi III) [Action]**
-- **Tatsujin (aka Truxton) [Arcade Shmup] = Musique**
-- **Thunderforce III [Shmup] = Musique**
-- **Thunderforce IV [Shmup] = Musique**
+- **The Super Shinobi** [Action] = Musique
+- **The Super Shinobi II (aka Shinobi III)** [Action]
+- **Tatsujin (aka Truxton)** [Arcade Shmup] = Musique
+- **Thunderforce III** [Shmup] = Musique
+- **Thunderforce IV** [Shmup] = Musique
 - Twin Cobra [Arcade Shmup]
 - Twinkle Tale
 - Undead Line [Shmup]
@@ -189,7 +189,7 @@
 - Verytex [Shmup] = Musique
 - Whip Rush [Shmup]
 - Wings of Wor (Gynoug) [Shmup]
-- **Wonderboy in Monster World [Platformer / ARPG]**
+- **Wonderboy in Monster World** [Platformer / ARPG]
 - Wonderboy Monster World IV [Platformer / ARPG]
 - World of Illusion [Platformer]
 - X-Men II [Action]

@@ -113,9 +113,11 @@
 - Battle Maniacs (aka Trouble Shooters) [Shmup]
 - Battletoads
 - Bio-Hazard Battle (Crying: Aseimei Sensou) [Shmup]
+- Blades of Vengeance
 - **Castlevania Bloodlines (aka Vampire Killer)** [Action / Platformer] = Musique
 - **Castle of Illusion** [Platformer]
 - **Chaos Engine** [Run and gun (Euro)] = 2 Players
+- Chiki Chiki Boys (Mega Twins)
 - **Contra The Hard Corps** [Run and gun] = 2 Players
 - Crusader of Centy (Soleil) [ARPG]
 - Devil Crash MD
@@ -124,7 +126,8 @@
 - Elemental Master [Shmup] = Musique
 - **Eliminate Down** [Shmup]
 - **El Viento** [Action / Platformer]
-- Fire Shark [Arcade Shmup]
+- Fire Shark (Same! Same! Same!) [Arcade Shmup]
+- Flink
 - **Flashback**
 - **Gaiares** [Shmup]
 - Ghouls'n Ghosts [Arcade Action / Platformer]
@@ -140,6 +143,7 @@
 - Joe & Mac
 - Mazin Saga/Mazin Wars
 - **Mega Turrican**
+- Mega Man: The Wily Wars (Rockman Mega World)
 - Mercs (Senjou No Ookami II)
 - Midnight Resistance
 - Moonwalker

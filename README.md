@@ -1,6 +1,7 @@
 
 - [Awesome Amiga games](#awesome-amiga-games)
 - [Awesome Mega Drive games](#awesome-mega-drive-games)
+- [Awesome Neo Geo games](#awesome-neo-geo-games)
 - [Awesome PC Engine games](#awesome-pc-engine-games)
 - [Awesome Super Famicom games](#awesome-super-famicom-games)
 
@@ -201,6 +202,23 @@
 - Yu Yu Hakusho
 - Warsong [RPG]
 - Zero Wing [Arcade Shmup] = Musique
+
+## Awesome Neo Geo games
+
+- Alpha Mission II (ASO II)
+- Blazing Star
+- **Garou - Mark of the Wolves**
+- **The King of Fighters '98 - Dream Match Never Ends**
+- Last Resort
+- **Pulstar**
+- **Metal Slug - Super Vehicle-001**
+- **Metal Slug X - Super Vehicle-001**
+- **Metal Slug 3**
+- **Samurai Showdown II (Shin Samurai Spirits Haōmaru Jigokuhen)**
+- **Strikers 1945 Plus**
+- Top Hunter: Roddy & Cathy
+- Viewpoint
+- Windjammers
 
 ## Awesome PC Engine games
 

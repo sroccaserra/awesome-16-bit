@@ -1,5 +1,6 @@
 
 - [Awesome Amiga games](#awesome-amiga-games)
+- [Awesome Arcade games](#awesome-arcade-games)
 - [Awesome Mega Drive games](#awesome-mega-drive-games)
 - [Awesome Neo Geo games](#awesome-neo-geo-games)
 - [Awesome PC Engine games](#awesome-pc-engine-games)
@@ -96,6 +97,17 @@
 - Waxworks
 - Wings of Death
 - **Worms**
+
+## Awesome Arcade games
+
+- **Dai Makaimura (Ghouls'n Ghosts)**
+- **Dodonpachi**
+- **Final Fight**
+- **Golden Axe**
+- **Gradius**
+- **R-Type**
+- **Street Fighter II: The World Warriors**
+- **Strider**
 
 ## Awesome Mega Drive games
 

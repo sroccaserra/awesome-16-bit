@@ -100,14 +100,38 @@
 
 ## Awesome Arcade games
 
+- Area 88 (U.N. Squadron)
+- Cadillacs and Dinosaurs
 - **Dai Makaimura (Ghouls'n Ghosts)**
+- Donpachi
 - **Dodonpachi**
+- **Espgaluda**
 - **Final Fight**
+- Flying Shark (Hishou Zame)
 - **Golden Axe**
 - **Gradius**
+- Hellfire
+- Kyukyoku Tiger (Twin Cobra)
+- Magic Sword
+- Ninja Spirit
+- **Parodius Da!**
+- Progear
 - **R-Type**
+- R-Type II
+- **Raiden**
+- Rainbow Island
+- Rolling Thunder
+- **Salamander**
+- Shinobi
+- Splatter House
 - **Street Fighter II: The World Warriors**
-- **Strider**
+- **Strider Hiryu**
+- Sunset Riders
+- **Tatsujin (Truxton)**
+- Toki
+- Undercover Cops
+- Wonder Boy in Monster Land
+- Zero Wing
 
 ## Awesome Mega Drive games
 
@@ -139,6 +163,7 @@
 - Elemental Master [Shmup] = Musique
 - **Eliminate Down** [Shmup]
 - **El Viento** [Action / Platformer]
+- Ex-Ranza (Ranger X)
 - Fire Shark (Same! Same! Same!) [Arcade Shmup]
 - Flink
 - **Flashback**

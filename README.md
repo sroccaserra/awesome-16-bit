@@ -100,37 +100,66 @@
 
 ## Awesome Arcade games
 
+- Alien Storm
+- **Alien vs. Predator**
 - Area 88 (U.N. Squadron)
+- Batsugun
+- **Battle Garegga**
 - Cadillacs and Dinosaurs
-- **Dai Makaimura (Ghouls'n Ghosts)**
+- **Dai Makaimura** (Ghouls'n Ghosts)
+- **Demon Front**
 - Donpachi
 - **Dodonpachi**
+- **Dodonpachi Daiōjō**
+- **Dungeons and Dragons: Shadow over Mystara**
+- **Dungeons and Dragons: Tower of Doom**
+- **Elevator Action Returns**
 - **Espgaluda**
 - **Final Fight**
 - Flying Shark (Hishou Zame)
+- GigaWing
 - **Golden Axe**
+- Golden Axe: The Revenge of Death Adder
 - **Gradius**
 - Hellfire
 - Kyukyoku Tiger (Twin Cobra)
-- Magic Sword
+- Mars Matrix
+- Marvel vs. Capcom: Clash of Super Heroes
+- Magic Sword: Heroic Fantasy
+- **Ninja Baseball Batman**
 - Ninja Spirit
 - **Parodius Da!**
 - Progear
+- The Punisher
 - **R-Type**
 - R-Type II
 - **Raiden**
-- Rainbow Island
+- **Raiden DX**
+- **Rainbow Island**
+- **Rayforce**
+- Rodland
 - Rolling Thunder
 - **Salamander**
 - Shinobi
 - Splatter House
-- **Street Fighter II: The World Warriors**
+- Street Fighter II: The World Warriors
+- **Street Fighter II Dash** (Street Fighter II': Champion Edition)
+- Street Fighter II Dash Turbo (Street Fighter II' Turbo: Hyper Fighting)
+- **Street Fighter III: 3rd Strike**
+- Street Fighter Zero 3 (Street Fighter Alpha 3)
 - **Strider Hiryu**
 - Sunset Riders
-- **Tatsujin (Truxton)**
+- Super Street Fighter II: The New Challengers
+- **Super Street Fighter II X** (Super Street Fighter II Turbo)
+- **Tatsujin** (Truxton)
+- Teenage Mutant Ninja Turtles
+- **Teenage Mutant Ninja Turtles - Turtles in Time**
 - Toki
 - Undercover Cops
+- Vampire Hunter II
+- Vampire Savior II
 - Wonder Boy in Monster Land
+- X-Men
 - Zero Wing
 
 ## Awesome Mega Drive games
@@ -155,7 +184,7 @@
 - **Castle of Illusion** [Platformer]
 - **Chaos Engine** [Run and gun (Euro)] = 2 Players
 - Chiki Chiki Boys (Mega Twins)
-- **Contra The Hard Corps** [Run and gun] = 2 Players
+- **Contra: The Hard Corps** [Run and gun] = 2 Players
 - Crusader of Centy (Soleil) [ARPG]
 - Devil Crash MD
 - Double Dragon
@@ -193,7 +222,7 @@
 - **Phantasy Star IV** [JRPG] = Musique
 - Phelios [Shmup]
 - Pulseman
-- Punisher
+- The Punisher
 - **Puyo Puyo Tsuu** [Arcade Vs. Puzzle] = 2 Players
 - **Quackshot** [Platformer]
 - Raiden Trad [Arcade Shmup]
@@ -243,15 +272,20 @@
 ## Awesome Neo Geo games
 
 - Alpha Mission II (ASO II)
+- Andro Dunos
 - Blazing Star
 - **Garou - Mark of the Wolves**
 - **The King of Fighters '98 - Dream Match Never Ends**
 - Last Resort
+- Magician Lord
 - **Pulstar**
 - **Metal Slug - Super Vehicle-001**
 - **Metal Slug X - Super Vehicle-001**
 - **Metal Slug 3**
+- Ninja Commando
+- Robo Army
 - **Samurai Showdown II (Shin Samurai Spirits Haōmaru Jigokuhen)**
+- Shock Troopers
 - **Strikers 1945 Plus**
 - Top Hunter: Roddy & Cathy
 - Viewpoint
@@ -306,7 +340,7 @@
 
 - Actraiser
 - Actraiser 2
-- Addams Family
+- The Addams Family
 - The Adventures of Batman & Robin
 - Aero the Acro-Bat 2
 - **Akumajo Dracula (Super Castlevania IV)**

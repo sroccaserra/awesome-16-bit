@@ -2,8 +2,10 @@
 - [Awesome Amiga games](#awesome-amiga-games)
 - [Awesome Arcade games](#awesome-arcade-games)
 - [Awesome Mega Drive games](#awesome-mega-drive-games)
+- [Awesome Mega CD games](#awesome-mega-cd-games)
 - [Awesome Neo Geo games](#awesome-neo-geo-games)
 - [Awesome PC Engine games](#awesome-pc-engine-games)
+- [Awesome PC Engine CD games](#awesome-pc-engine-cd-games)
 - [Awesome Super Famicom games](#awesome-super-famicom-games)
 
 ## Awesome Amiga games
@@ -67,7 +69,7 @@
 - **Pinball Fantasies**
 - Prince of Persia
 - **Project X**
-- **Rainbow Island**
+- **Rainbow Islands**
 - **Rick Dangerous**
 - **Rick Dangerous II**
 - Road Rash
@@ -100,6 +102,8 @@
 
 ## Awesome Arcade games
 
+Note: this section contains a few 32 bit games (the Taito F3, System-32 and CPS-3 games).
+
 - Alien Storm
 - **Alien vs. Predator**
 - Area 88 (U.N. Squadron)
@@ -108,6 +112,7 @@
 - Cadillacs and Dinosaurs
 - **Dai Makaimura** (Ghouls'n Ghosts)
 - **Demon Front**
+- **Dimahoo**
 - Donpachi
 - **Dodonpachi**
 - **Dodonpachi Daiōjō**
@@ -135,7 +140,7 @@
 - R-Type II
 - **Raiden**
 - **Raiden DX**
-- **Rainbow Island**
+- **Rainbow Islands: The Story of Bubble Bobble 2**
 - **Rayforce**
 - Rodland
 - Rolling Thunder
@@ -226,7 +231,7 @@
 - **Puyo Puyo Tsuu** [Arcade Vs. Puzzle] = 2 Players
 - **Quackshot** [Platformer]
 - Raiden Trad [Arcade Shmup]
-- Rainbow Island [Arcade Platformer]
+- Rainbow Islands [Arcade Platformer]
 - Ranger X
 - Ristar
 - **Road Rash** [Racing] = Musique
@@ -268,6 +273,23 @@
 - Yu Yu Hakusho
 - Warsong [RPG]
 - Zero Wing [Arcade Shmup] = Musique
+
+## Awesome Mega CD games
+
+- **Bari-Arm**
+- **Dennin Aleste** (Robo Aleste)
+- Dune
+- **Final Fight**
+- **Keiou Yuugekitai** (Keio Flying Squadron)
+- **Lords of Thunder**
+- **Lunar - Eternal Blue**
+- **Lunar - The Silver Star**
+- **Magical Popful Mail Fantasy Adventure** (Popful Mail)
+- The Secret of Monkey Island
+- Shadow of the Beast II
+- **Snatcher**
+- Sonic the Hedgehog CD
+- Vay
 
 ## Awesome Neo Geo games
 
@@ -335,6 +357,34 @@
 - **Street Fighter II' - Champion Edition**
 - **Super Star Soldier**
 - Vigilante
+
+## Awesome PC Engine CD games
+
+- **Akumajou Dracula X - Chi no Rondo**
+- Bonanza Brothers
+- Cotton - Fantastic Night Dreams
+- Download II
+- Dragon Slayer - The Legend of Heroes
+- **Dynastic Hero**
+- **Gate of Thunder**
+- Ginga Fukei Densetsu Sapphire
+- Gradius II - Gofer no Yabou
+- Hellfire S
+- Kaze Kiri Ninja Action
+- L-Dis
+- Loom
+- **Nexzr**
+- R-Type Complete
+- Rainbow Islands
+- Rayxanber II
+- Rayxanber III
+- **Seirei Senshi Spriggan**
+- Shadow of the Beast
+- **Star Parodier**
+- Summer Carnival '93 - Nexzr Special
+- Valis III
+- **Winds of Thunder** (Lords of Thunder)
+- **Ys Book I & II**
 
 ## Awesome Super Famicom games
 

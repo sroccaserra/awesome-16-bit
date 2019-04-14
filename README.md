@@ -25,7 +25,7 @@
 - Cadaver
 - Captive
 - **The Chaos Engine**
-- Cruise for a Corpse
+- Croisière pour un cadavre (Cruise for a Corpse)
 - Darkmere
 - Defender of the Crown
 - Disposable Hero
@@ -97,7 +97,7 @@
 - **Turrican II**
 - Turrican 3
 - Xenon 2
-- Les Voyageurs du Temps
+- Les Voyageurs du Temps : La Menace (Future Wars)
 - **Vroom**
 - Waxworks
 - Wings of Death
@@ -191,13 +191,13 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32 and CPS-
 - Atomic Robo-Kid
 - Atomic Runner
 - Bare Knuckles (Streets of Rage) [Beat 'em up] = Musique, 2 Players
-- **Bare Knuckles II (Streets of Rage II)** [Beat 'em up] = Musique, 2 Players
+- **Bare Knuckles II** (Streets of Rage II) [Beat 'em up] = Musique, 2 Players
 - Bare Knuckles III (Streets of Rage III) [Beat 'em up] = Musique, 2 Players
 - Battle Maniacs (aka Trouble Shooters) [Shmup]
 - Battletoads
 - Bio-Hazard Battle (Crying: Aseimei Sensou) [Shmup]
 - Blades of Vengeance
-- **Castlevania Bloodlines (aka Vampire Killer)** [Action / Platformer] = Musique
+- **Castlevania Bloodlines** (Vampire Killer) [Action / Platformer] = Musique
 - **Castle of Illusion** [Platformer]
 - **Chaos Engine** [Run and gun (Euro)] = 2 Players
 - Chiki Chiki Boys (Mega Twins)
@@ -215,7 +215,7 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32 and CPS-
 - **Flashback**
 - **Gaiares** [Shmup]
 - Ghouls'n Ghosts [Arcade Action / Platformer]
-- **Gley Lancer (Advanced Busterhawk Gley Lancer)** [Shmup]
+- **Gley Lancer** (Advanced Busterhawk Gley Lancer) [Shmup]
 - Gods [Action / Platformer (Euro)]
 - **Golden Axe** [Arcade Beat 'em up] = 2 Players
 - Granada X
@@ -254,7 +254,7 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32 and CPS-
 - **Shadow Dancer** [Action]
 - Shining Force II [TRPG]
 - **Snow Bros.: Nick & Tom** [Arcade Platformer] = 2 Players
-- **Sonic** [Platformer] = Musique
+- **Sonic the Hedgehog** [Platformer] = Musique
 - Spider-Man: Maximum Carnage
 - **Splatter House Part 2** [Arcade Action]
 - Splatter House 3
@@ -263,9 +263,9 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32 and CPS-
 - **Strider** [Arcade Action / Platformer]
 - Super Hang-On [Arcade Racing] = Musique
 - Sword of Vermillon [ARPG]
-- **The Super Shinobi** [Action] = Musique
-- **The Super Shinobi II (aka Shinobi III)** [Action]
-- **Tatsujin (aka Truxton)** [Arcade Shmup] = Musique
+- **The Super Shinobi** (The Revenge of Shinobi) [Action] = Musique
+- **The Super Shinobi II** (Shinobi III) [Action]
+- **Tatsujin** (Truxton) [Arcade Shmup] = Musique
 - **Thunderforce III** [Shmup] = Musique
 - **Thunderforce IV** [Shmup] = Musique
 - Twin Cobra [Arcade Shmup]
@@ -318,7 +318,7 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32 and CPS-
 - **Metal Slug 3**
 - Ninja Commando
 - Robo Army
-- **Samurai Showdown II (Shin Samurai Spirits Haōmaru Jigokuhen)**
+- **Samurai Showdown II** (Shin Samurai Spirits Haōmaru Jigokuhen)
 - Shock Troopers
 - **Strikers 1945 Plus**
 - Top Hunter: Roddy & Cathy
@@ -327,11 +327,11 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32 and CPS-
 
 ## Awesome PC Engine games
 
-- **Adventure Island (Wonder Boy III: The Dragon's Trap)**
+- **Adventure Island** (Wonder Boy III: The Dragon's Trap)
 - Aero Blasters
 - Air Zonk
 - Alien Crush
-- **Bikkuriman World (Wonder Boy in Monster Land)**
+- **Bikkuriman World** (Wonder Boy in Monster Land)
 - Coryoon - Child of Dragon
 - Cyber Core
 - Dead Moon
@@ -368,6 +368,7 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32 and CPS-
 - **Splatterhouse**
 - **Street Fighter II' - Champion Edition**
 - **Super Star Soldier**
+- **Tatsujin**
 - Vigilante
 
 ## Awesome PC Engine CD games
@@ -405,11 +406,11 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32 and CPS-
 - The Addams Family
 - The Adventures of Batman & Robin
 - Aero the Acro-Bat 2
-- **Akumajo Dracula (Super Castlevania IV)**
+- **Akumajo Dracula** (Super Castlevania IV)
 - Akumajo Dracula XX (Castlevania: Dracula X)
 - Aladdin
 - Alien 3
-- **Area 88 (U.N. Squadron)**
+- **Area 88** (U.N. Squadron)
 - **Axelay**
 - **Batman Returns**
 - BioMetal
@@ -422,12 +423,13 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32 and CPS-
 - **Chrono Trigger**
 - The Combatribes
 - Captain Commando
-- **Contra Spirit / Contra III**
+- **Chō Makaimura** (Super Ghouls'n Ghosts)
+- **Contra Spirit** (Contra III)
 - Cybernator
 - Death and Return of Superman
 - Demon's Crest
-- **Donkey Kong Country**
-- **Donkey Kong Country 2**
+- **Donkey Kong Country** (Super Donkey Kong)
+- **Donkey Kong Country 2** (Super Donkey Kong 2)
 - DoReMi Fantasy
 - Dragon Quest V
 - Dragon Quest VI
@@ -439,9 +441,10 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32 and CPS-
 - **Final Fantasy IV**
 - **Final Fantasy V**
 - **Final Fantasy VI**
-- **Final Fight Guy (Final Fight)**
+- Final Fight
+- **Final Fight Guy**
 - Final Fight 2
-- **Final Fight Tough (Final Fight 3)**
+- **Final Fight Tough** (Final Fight 3)
 - First Samurai
 - Front Mission: Gun Hazard
 - Ghost Chaser Densei (Denjin Makai)
@@ -477,14 +480,14 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32 and CPS-
 - Majyuuou
 - Märchen Adventure Cotton 100%
 - Maui Mallard in Cold Shadow
-- Mega Man & Bass
-- Mega Man 7
-- **Mega Man X**
+- Mega Man & Bass (Rockman & Forte)
+- Mega Man 7 (Rockman 7)
+- **Mega Man X** (Rockman X)
 - Metal Warriors
 - Mortal Kombat II
 - Mr. Nutz
 - Nightmare Busters
-- **Ninja Warriors Again**
+- **The Ninja Warriors Again**
 - Nosferatu
 - Ogre Battle: March of the Black Queen
 - **Parodius Da!**
@@ -503,9 +506,9 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32 and CPS-
 - Rock'n'Roll Racing
 - Run Saber
 - Rushing Beat (Rival Turf)
-- **Rushing Beat Ran (Brawl Brothers)**
-- **Rushing Beat Shura (The Peace Keepers)**
-- **Secret of Mana**
+- **Rushing Beat Ran** (Brawl Brothers)
+- **Rushing Beat Shura** (The Peace Keepers)
+- **Secret of Mana** (Seiken densetsu 2)
 - The Shadow
 - Skyblazer
 - Soccer Kid
@@ -514,19 +517,18 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32 and CPS-
 - Soul Blazer
 - Sparkster
 - Spider-Man: Maximum Carnage
-- **Star Fox**
+- **Star Fox** (Starwing)
 - **Street Fighter II Turbo**
 - Street Fighter Zero 2
 - Street Racer
 - Strike Gunner STG
 - Sunset Riders
-- **Super Aleste (Space Megaforce)**
+- **Super Aleste** (Space Megaforce)
 - **Super Dimension Fortress Macross: Scrambled Valkyrie**
 - Super Bomberman 3
 - Super Bonk
 - Super Buster Bros
 - Super Double Dragon
-- **Super Ghouls'n'Ghosts**
 - **Super Mario All Stars**
 - **Super Mario Kart**
 - **Super Mario RPG**

@@ -45,12 +45,14 @@
 - **IK+**
 - Katakis
 - Kick-off 2
+- King's Quest I: Quest for the Crown
 - Leander
 - **Lemmings**
 - **Lemmings 2**
 - Lethal Xcess: Wings of Death II
 - Lionheart
 - **Llamatron**
+- Loom
 - **Lotus Esprit Turbo Challenge**
 - **Lotus Turbo Challenge 2**
 - Lure of the Tempress
@@ -83,6 +85,7 @@
 - Shadow of the Beast III
 - Skidmarks
 - Soccer Kid
+- **Space Quest III: The Pirates of Pestulon**
 - **Speedball 2: Brutal Deluxe**
 - Supercars II
 - Superfrog

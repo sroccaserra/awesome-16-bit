@@ -111,8 +111,10 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32 and CPS-
 - **Battle Garegga**
 - Cadillacs and Dinosaurs
 - **Dai Makaimura** (Ghouls'n Ghosts)
+- Daisenpuu (Twin Hawk)
 - **Demon Front**
 - **Dimahoo**
+- Don Doko Don
 - Donpachi
 - **Dodonpachi**
 - **Dodonpachi Daiōjō**
@@ -121,31 +123,35 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32 and CPS-
 - **Elevator Action Returns**
 - **Espgaluda**
 - **Final Fight**
-- Flying Shark (Hishou Zame)
+- Flying Shark (Hishōzame, Sky Shark)
+- Fire Shark (Same! Same! Same!)
 - GigaWing
 - **Golden Axe**
 - Golden Axe: The Revenge of Death Adder
 - **Gradius**
 - Hellfire
-- Kyukyoku Tiger (Twin Cobra)
+- Kyuukyoku Tiger (Twin Cobra)
+- Liquid Kids
 - Mars Matrix
 - Marvel vs. Capcom: Clash of Super Heroes
 - Magic Sword: Heroic Fantasy
 - **Ninja Baseball Batman**
 - Ninja Spirit
+- Out Zone
 - **Parodius Da!**
 - Progear
 - The Punisher
 - **R-Type**
-- R-Type II
+- **R-Type II**
 - **Raiden**
 - **Raiden DX**
 - **Rainbow Islands: The Story of Bubble Bobble 2**
-- **Rayforce**
+- **Rayforce** (Gunlock / Layer Section)
 - Rodland
 - Rolling Thunder
 - **Salamander**
 - Shinobi
+- Snow Bros.: Nick & Tom
 - Splatter House
 - Street Fighter II: The World Warriors
 - **Street Fighter II Dash** (Street Fighter II': Champion Edition)
@@ -157,12 +163,15 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32 and CPS-
 - Super Street Fighter II: The New Challengers
 - **Super Street Fighter II X** (Super Street Fighter II Turbo)
 - **Tatsujin** (Truxton)
+- Tatsujin Ō (Truxton II)
 - Teenage Mutant Ninja Turtles
 - **Teenage Mutant Ninja Turtles - Turtles in Time**
 - Toki
 - Undercover Cops
+- V・V (Grind Stormer)
 - Vampire Hunter II
 - Vampire Savior II
+- Vimana
 - Wonder Boy in Monster Land
 - X-Men
 - Zero Wing
@@ -241,7 +250,7 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32 and CPS-
 - Rolling Thunder 3
 - **Shadow Dancer** [Action]
 - Shining Force II [TRPG]
-- **Snow Bros** [Arcade Platformer] = 2 Players
+- **Snow Bros.: Nick & Tom** [Arcade Platformer] = 2 Players
 - **Sonic** [Platformer] = Musique
 - Spider-Man: Maximum Carnage
 - **Splatter House Part 2** [Arcade Action]
@@ -310,7 +319,7 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32 and CPS-
 - Shock Troopers
 - **Strikers 1945 Plus**
 - Top Hunter: Roddy & Cathy
-- Viewpoint
+- **Viewpoint**
 - Windjammers
 
 ## Awesome PC Engine games

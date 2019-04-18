@@ -105,8 +105,9 @@
 
 ## Awesome Arcade games
 
-Note: this section contains a few 32 bit games (the Taito F3, System-32 and CPS-3 games).
+Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco Mega System 32, and CPS-3 games).
 
+- 64th Street - A Detective Story
 - Alien Storm
 - **Alien vs. Predator**
 - Area 88 (U.N. Squadron)
@@ -121,6 +122,7 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32 and CPS-
 - Donpachi
 - **Dodonpachi**
 - **Dodonpachi Daiōjō**
+- Dragon Breed
 - **Dungeons and Dragons: Shadow over Mystara**
 - **Dungeons and Dragons: Tower of Doom**
 - **Elevator Action Returns**
@@ -128,10 +130,12 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32 and CPS-
 - **Final Fight**
 - Flying Shark (Hishōzame, Sky Shark)
 - Fire Shark (Same! Same! Same!)
+- The Game Paradise
 - GigaWing
 - **Golden Axe**
 - Golden Axe: The Revenge of Death Adder
 - **Gradius**
+- Gratia - Second Earth
 - Hellfire
 - Kyuukyoku Tiger (Twin Cobra)
 - Liquid Kids
@@ -141,7 +145,10 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32 and CPS-
 - **Ninja Baseball Batman**
 - Ninja Spirit
 - Out Zone
+- P-47 Aces
+- P-47 The Phantom Fighter
 - **Parodius Da!**
+- Plus Alpha
 - Progear
 - The Punisher
 - **R-Type**
@@ -152,6 +159,7 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32 and CPS-
 - **Rayforce** (Gunlock / Layer Section)
 - Rodland
 - Rolling Thunder
+- Saint Dragon
 - **Salamander**
 - Shinobi
 - Snow Bros.: Nick & Tom

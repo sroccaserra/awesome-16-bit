@@ -113,7 +113,9 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 - Area 88 (U.N. Squadron)
 - Batsugun
 - **Battle Garegga**
+- Blade Master
 - Cadillacs and Dinosaurs
+- Cosmic Cop
 - **Dai Makaimura** (Ghouls'n Ghosts)
 - Daisenpuu (Twin Hawk)
 - **Demon Front**
@@ -136,12 +138,20 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 - Golden Axe: The Revenge of Death Adder
 - **Gradius**
 - Gratia - Second Earth
+- Gunforce 2
+- Hat Trick Hero (Football Champ)
 - Hellfire
+- Hook
+- Image Fight
+- In the Hunt
+- Joe and Mac: Caveman Ninja
 - Kyuukyoku Tiger (Twin Cobra)
 - Liquid Kids
 - Mars Matrix
 - Marvel vs. Capcom: Clash of Super Heroes
 - Magic Sword: Heroic Fantasy
+- Mystic Riders
+- Mystic Warriors
 - **Ninja Baseball Batman**
 - Ninja Spirit
 - Out Zone
@@ -163,6 +173,7 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 - **Salamander**
 - Shinobi
 - Snow Bros.: Nick & Tom
+- Spider-Man: The Video Game
 - Splatter House
 - Street Fighter II: The World Warriors
 - **Street Fighter II Dash** (Street Fighter II': Champion Edition)
@@ -177,14 +188,19 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 - Tatsujin Ō (Truxton II)
 - Teenage Mutant Ninja Turtles
 - **Teenage Mutant Ninja Turtles - Turtles in Time**
+- Thunder Cross
+- Thunder Cross II
 - Toki
 - Undercover Cops
 - V・V (Grind Stormer)
 - Vampire Hunter II
 - Vampire Savior II
 - Vimana
+- Violent Storm
 - Wonder Boy in Monster Land
 - X-Men
+- X-Men vs. Street Fighter
+- X-Multiply
 - Zero Wing
 
 ## Awesome Mega Drive games
@@ -319,15 +335,17 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 - **Garou - Mark of the Wolves**
 - **The King of Fighters '98 - Dream Match Never Ends**
 - Last Resort
+- Magical Drop II
 - Magician Lord
-- **Pulstar**
 - **Metal Slug - Super Vehicle-001**
 - **Metal Slug X - Super Vehicle-001**
 - **Metal Slug 3**
 - Ninja Commando
+- **Pulstar**
 - Robo Army
 - **Samurai Showdown II** (Shin Samurai Spirits Haōmaru Jigokuhen)
 - Shock Troopers
+- Spinmaster
 - **Strikers 1945 Plus**
 - Top Hunter: Roddy & Cathy
 - **Viewpoint**

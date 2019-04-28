@@ -75,7 +75,7 @@
 - **Rick Dangerous**
 - **Rick Dangerous II**
 - Road Rash
-- **Rodland**
+- **Rod Land**
 - Robocod - James Pond 2
 - Ruff 'n' Tumble
 - **The Secret of Monkey Island**
@@ -143,7 +143,7 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 - Hellfire
 - Hook
 - Image Fight
-- In the Hunt
+- In the Hunt (Undersea War / Kaitei Daisensou)
 - Joe and Mac: Caveman Ninja
 - Kyuukyoku Tiger (Twin Cobra)
 - Liquid Kids
@@ -167,7 +167,7 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 - **Raiden DX**
 - **Rainbow Islands: The Story of Bubble Bobble 2**
 - **Rayforce** (Gunlock / Layer Section)
-- Rodland
+- Rod Land (Yousei Monogatari Rod Land)
 - Rolling Thunder
 - Saint Dragon
 - **Salamander**
@@ -201,7 +201,7 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 - Wonder Boy in Monster Land
 - X-Men
 - X-Men vs. Street Fighter
-- X-Multiply
+- XMultiply
 - Zero Wing
 
 ## Awesome Mega Drive games
@@ -346,7 +346,7 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 - Robo Army
 - **Samurai Showdown II** (Shin Samurai Spirits Haōmaru Jigokuhen)
 - Shock Troopers
-- Spinmaster
+- Spin Master
 - **Strikers 1945 Plus**
 - Top Hunter: Roddy & Cathy
 - **Viewpoint**

@@ -213,6 +213,7 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 - **Alien Soldier** [Run and gun] = Now is time to the 68000 heart on fire!
 - Alien Storm
 - Alisia Dragoon [Action / Platformer]
+- Arrow Flash
 - Atomic Robo-Kid
 - Atomic Runner
 - Bare Knuckles (Streets of Rage) [Beat 'em up] = Musique, 2 Players

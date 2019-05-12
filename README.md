@@ -219,6 +219,7 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 - Bare Knuckles (Streets of Rage) [Beat 'em up] = Musique, 2 Players
 - **Bare Knuckles II** (Streets of Rage II) [Beat 'em up] = Musique, 2 Players
 - Bare Knuckles III (Streets of Rage III) [Beat 'em up] = Musique, 2 Players
+- Batman
 - Battle Maniacs (aka Trouble Shooters) [Shmup]
 - Battletoads
 - Bio-Hazard Battle (Crying: Aseimei Sensou) [Shmup]
@@ -236,9 +237,10 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 - **Eliminate Down** [Shmup]
 - **El Viento** [Action / Platformer]
 - Ex-Ranza (Ranger X)
+- F1 (Vroom)
 - Fire Shark (Same! Same! Same!) [Arcade Shmup]
-- Flink
 - **Flashback**
+- Flink
 - **Gaiares** [Shmup]
 - Ghouls'n Ghosts [Arcade Action / Platformer]
 - **Gley Lancer** (Advanced Busterhawk Gley Lancer) [Shmup]
@@ -280,6 +282,7 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 - **Shadow Dancer** [Action]
 - Shining Force II [TRPG]
 - **Snow Bros.: Nick & Tom** [Arcade Platformer] = 2 Players
+- Sol Deace
 - **Sonic the Hedgehog** [Platformer] = Musique
 - Spider-Man: Maximum Carnage
 - **Splatter House Part 2** [Arcade Action]
@@ -291,6 +294,7 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 - Sword of Vermillon [ARPG]
 - **The Super Shinobi** (The Revenge of Shinobi) [Action] = Musique
 - **The Super Shinobi II** (Shinobi III) [Action]
+- Super Skidmarks
 - **Tatsujin** (Truxton) [Arcade Shmup] = Musique
 - **Thunderforce III** [Shmup] = Musique
 - **Thunderforce IV** [Shmup] = Musique
@@ -300,6 +304,7 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 - V-V (Grindstormer) [Arcade Shmup]
 - Valis III [Action / Platformer]
 - Vapor Trail [Shmup]
+- Vectorman
 - Verytex [Shmup] = Musique
 - Whip Rush [Shmup]
 - Wings of Wor (Gynoug) [Shmup]
@@ -441,6 +446,7 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 - **Area 88** (U.N. Squadron)
 - **Axelay**
 - **Batman Returns**
+- Biker Mice from Mars
 - BioMetal
 - Blackthorne
 - BlaZeon: The Bio-Cyborg Challenge
@@ -518,6 +524,7 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 - **The Ninja Warriors Again**
 - Nosferatu
 - Ogre Battle: March of the Black Queen
+- Out to Lunch
 - **Parodius Da!**
 - Phalanx
 - Pinball Dreams

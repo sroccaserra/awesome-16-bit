@@ -113,6 +113,7 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 - Area 88 (U.N. Squadron)
 - Batsugun
 - **Battle Garegga**
+- Biomechanical Toy
 - Blade Master
 - Cadillacs and Dinosaurs
 - Cosmic Cop
@@ -125,6 +126,7 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 - **Dodonpachi**
 - **Dodonpachi Daiōjō**
 - Dragon Breed
+- Dungeon Magic (Light Bringer)
 - **Dungeons and Dragons: Shadow over Mystara**
 - **Dungeons and Dragons: Tower of Doom**
 - **Elevator Action Returns**

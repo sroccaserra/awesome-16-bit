@@ -153,6 +153,7 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 - Kyuukyoku Tiger (Twin Cobra)
 - Liquid Kids
 - Mars Matrix
+- Marvel Super Heroes vs. Street Fighter
 - Marvel vs. Capcom: Clash of Super Heroes
 - Magic Sword: Heroic Fantasy
 - Mystic Riders

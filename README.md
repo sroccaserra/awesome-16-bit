@@ -123,7 +123,9 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 - **Dai Makaimura** (Ghouls'n Ghosts)
 - Daisenpuu (Twin Hawk)
 - **Demon Front**
+- Demon's World (Horror Story)
 - **Dimahoo**
+- Doggyun
 - Don Doko Don
 - Donpachi
 - **Dodonpachi**

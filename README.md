@@ -113,13 +113,17 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 - 64th Street - A Detective Story
 - Alien Storm
 - **Alien vs. Predator**
+- Arabian Magic
 - Area 88 (U.N. Squadron)
+- B. Rap Boys
+- Bang Bang Busters
 - Batsugun
 - **Battle Garegga**
 - Biomechanical Toy
 - Blade Master
 - Cadillacs and Dinosaurs
 - Cosmic Cop
+- Cotton
 - **Dai Makaimura** (Ghouls'n Ghosts)
 - Daisenpuu (Twin Hawk)
 - **Demon Front**
@@ -146,9 +150,11 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 - **Gradius**
 - Gratia - Second Earth
 - Gunforce 2
+- Hangzo
 - Hat Trick Hero (Football Champ)
 - Hellfire
 - Hook
+- Hyper Duel
 - Image Fight
 - In the Hunt (Undersea War / Kaitei Daisensou)
 - Joe and Mac: Caveman Ninja
@@ -161,6 +167,7 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 - Mystic Riders
 - Mystic Warriors
 - **Ninja Baseball Batman**
+- The Ninja Kids
 - Ninja Spirit
 - Out Zone
 - P-47 Aces
@@ -171,6 +178,7 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 - The Punisher
 - **R-Type**
 - **R-Type II**
+- Rapid Hero (Arcadian)
 - **Raiden**
 - **Raiden DX**
 - **Rainbow Islands: The Story of Bubble Bobble 2**

@@ -250,6 +250,7 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 - Chiki Chiki Boys (Mega Twins)
 - **Contra: The Hard Corps** [Run and gun] = 2 Players
 - Crusader of Centy (Soleil) [ARPG]
+- Dangerous Seed
 - Devil Crash MD
 - Double Dragon
 - **Dynamite Headdy** [Platformer]
@@ -295,6 +296,8 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 - Ranger X
 - Ristar
 - **Road Rash** [Racing] = Musique
+- Road Rash II [Racing] = Musique
+- Road Rash 3 [Racing] = Musique
 - Robocod [Platformer (Euro)]
 - Rocket Knight Adventure
 - Rolling Thunder 2
@@ -304,6 +307,8 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 - **Snow Bros.: Nick & Tom** [Arcade Platformer] = 2 Players
 - Sol Deace
 - **Sonic the Hedgehog** [Platformer] = Musique
+- Sonic the Hedgehog 2 [Platformer] = Musique
+- Sonic the Hedgehog 3 & Knuckles [Platformer] = Musique
 - Spider-Man: Maximum Carnage
 - **Splatter House Part 2** [Arcade Action]
 - Splatter House 3

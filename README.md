@@ -511,6 +511,7 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 - Gods
 - **Gokujou Parodius**
 - **Gradius III**
+- The Great Battle V
 - Gunforce
 - Hagane
 - Hamelin no Violin Hiki

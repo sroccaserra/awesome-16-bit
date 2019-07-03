@@ -372,6 +372,7 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 - **Metal Slug - Super Vehicle-001**
 - **Metal Slug X - Super Vehicle-001**
 - **Metal Slug 3**
+- Mutation Nation
 - Ninja Commando
 - **Pulstar**
 - Robo Army

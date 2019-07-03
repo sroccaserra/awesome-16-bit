@@ -121,6 +121,7 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 - **Battle Garegga**
 - Biomechanical Toy
 - Blade Master
+- Boogie Wings
 - Cadillacs and Dinosaurs
 - Cosmic Cop
 - Cotton
@@ -160,12 +161,14 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 - Joe and Mac: Caveman Ninja
 - Kyuukyoku Tiger (Twin Cobra)
 - Liquid Kids
+- Lucky & Wild
 - Mars Matrix
 - Marvel Super Heroes vs. Street Fighter
 - Marvel vs. Capcom: Clash of Super Heroes
 - Magic Sword: Heroic Fantasy
 - Mystic Riders
 - Mystic Warriors
+- Night Slashers
 - **Ninja Baseball Batman**
 - The Ninja Kids
 - Ninja Spirit
@@ -213,6 +216,7 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 - Vampire Savior II
 - Vimana
 - Violent Storm
+- Wild West C.O.W.-Boys of Moo Mesa
 - Willow
 - Wonder Boy in Monster Land
 - X-Men

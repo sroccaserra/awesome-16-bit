@@ -211,6 +211,7 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 - **Teenage Mutant Ninja Turtles - Turtles in Time**
 - Thunder Cross
 - Thunder Cross II
+- Thunder Dragon 2
 - Toki
 - Undercover Cops
 - V・V (Grind Stormer)

@@ -114,6 +114,7 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 - Alien Storm
 - **Alien vs. Predator**
 - Arabian Magic
+- Ashura Blaster
 - Area 88 (U.N. Squadron)
 - B. Rap Boys
 - Bang Bang Busters
@@ -144,6 +145,7 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 - **Final Fight**
 - Flying Shark (Hishōzame, Sky Shark)
 - Fire Shark (Same! Same! Same!)
+- Galmedes
 - The Game Paradise
 - GigaWing
 - **Golden Axe**
@@ -363,7 +365,10 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 
 - Alpha Mission II (ASO II)
 - Andro Dunos
+- Bang Bang Busters
 - Blazing Star
+- Breakers
+- Breakers Revenge
 - **Garou - Mark of the Wolves**
 - **The King of Fighters '98 - Dream Match Never Ends**
 - Last Resort

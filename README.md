@@ -105,6 +105,7 @@
 - Waxworks
 - Wings of Death
 - **Worms**
+- Yo! Joe!
 
 ## Awesome Arcade games
 

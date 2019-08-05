@@ -146,8 +146,10 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 - **Final Fight**
 - Flying Shark (Hishōzame, Sky Shark)
 - Fire Shark (Same! Same! Same!)
+- Fixed Eight
 - Galmedes
 - The Game Paradise
+- Gaiapolis
 - GigaWing
 - **Golden Axe**
 - Golden Axe: The Revenge of Death Adder
@@ -210,6 +212,7 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 - Tatsujin Ō (Truxton II)
 - Teenage Mutant Ninja Turtles
 - **Teenage Mutant Ninja Turtles - Turtles in Time**
+- Tetris The Absolute - The Grand Master 2
 - Thunder Cross
 - Thunder Cross II
 - Thunder Dragon 2

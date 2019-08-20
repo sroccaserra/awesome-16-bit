@@ -519,6 +519,7 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 - First Samurai
 - Front Mission: Gun Hazard
 - Ghost Chaser Densei (Denjin Makai)
+- Ghost Sweeper Mikami Joreishi wa Nice Body
 - Gods
 - **Gokujou Parodius**
 - **Gradius III**

@@ -344,7 +344,7 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 - Wonderboy Monster World IV [Platformer / ARPG]
 - World of Illusion [Platformer]
 - X-Men II [Action]
-- Ys III [ARPG] = Musique
+- Ys III: Wanderers from Ys [ARPG] = Musique
 - Yu Yu Hakusho
 - Warsong [RPG]
 - Zero Wing [Arcade Shmup] = Musique

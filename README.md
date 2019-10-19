@@ -67,7 +67,7 @@
 - **Moonstone**
 - Naughty Ones
 - Nitro
-- **Operation Stealth**
+- Operation Stealth
 - Overdrive
 - **Pang**
 - **Pinball Dreams**
@@ -77,6 +77,7 @@
 - **Rainbow Islands**
 - **Rick Dangerous**
 - **Rick Dangerous II**
+- Risky Woods
 - Road Rash
 - **Rod Land**
 - Robocod - James Pond 2

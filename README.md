@@ -389,6 +389,7 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 - **Pulstar**
 - Robo Army
 - **Samurai Showdown II** (Shin Samurai Spirits Haōmaru Jigokuhen)
+- Sengoku 3
 - Shock Troopers
 - Spin Master
 - **Strikers 1945 Plus**

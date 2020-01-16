@@ -174,6 +174,7 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 - Marvel Super Heroes vs. Street Fighter
 - Marvel vs. Capcom: Clash of Super Heroes
 - Magic Sword: Heroic Fantasy
+- Monster Maulers
 - Mystic Riders
 - Mystic Warriors
 - Night Slashers

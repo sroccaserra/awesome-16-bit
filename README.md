@@ -100,13 +100,14 @@
 - **Turrican**
 - **Turrican II**
 - Turrican 3
-- Xenon 2
 - Les Voyageurs du Temps : La Menace (Future Wars)
 - **Vroom**
 - Waxworks
 - Wings of Death
 - **Worms**
+- Xenon 2
 - Yo! Joe!
+- Z-Out
 
 ## Awesome Arcade games
 

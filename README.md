@@ -163,6 +163,7 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 - Gunforce 2
 - Hangzo
 - Hat Trick Hero (Football Champ)
+- Heavy Unit
 - Hellfire
 - Hook
 - Hyper Duel

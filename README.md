@@ -280,6 +280,7 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 - **Flashback**
 - Flink
 - **Gaiares** [Shmup]
+- Gain Ground
 - Ghouls'n Ghosts [Arcade Action / Platformer]
 - **Gley Lancer** (Advanced Busterhawk Gley Lancer) [Shmup]
 - Gods [Action / Platformer (Euro)]

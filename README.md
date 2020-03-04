@@ -432,6 +432,8 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 - Jigoku Meguri
 - Kyuukyoku Tiger
 - **Magical Chase**
+- Neutopia
+- Neutopia II
 - The New Zealand Story
 - Ordyne
 - **Parasol Stars - The Story of Bubble Bobble 3**

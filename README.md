@@ -128,7 +128,10 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 - Blade Master
 - Boogie Wings
 - Cadillacs and Dinosaurs
+- Carrier Airwing
+- The Combatribes
 - Cosmic Cop
+- Cosmo Gang
 - Cotton
 - **Dai Makaimura** (Ghouls'n Ghosts)
 - Daisenpuu (Twin Hawk)
@@ -170,6 +173,7 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 - Image Fight
 - In the Hunt (Undersea War / Kaitei Daisensou)
 - Joe and Mac: Caveman Ninja
+- Karnov
 - Kyuukyoku Tiger (Twin Cobra)
 - Liquid Kids
 - Lucky & Wild
@@ -185,6 +189,7 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 - **Ninja Baseball Batman**
 - The Ninja Kids
 - Ninja Spirit
+- The Outfoxies
 - Out Zone
 - P-47 Aces
 - P-47 The Phantom Fighter
@@ -224,6 +229,7 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 - Thunder Cross
 - Thunder Cross II
 - Thunder Dragon 2
+- Thunder Fox
 - Toki
 - Tumblepop
 - Undercover Cops

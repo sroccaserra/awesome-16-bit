@@ -511,11 +511,12 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 - Bonkers
 - Breath of Fire
 - Breath of Fire II
+- Cacoma Knight in Bizyland
+- Captain Commando
 - The Chaos Engine
+- **Chō Makaimura** (Super Ghouls'n Ghosts)
 - **Chrono Trigger**
 - The Combatribes
-- Captain Commando
-- **Chō Makaimura** (Super Ghouls'n Ghosts)
 - **Contra Spirit** (Contra III)
 - Cybernator
 - Death and Return of Superman
@@ -556,6 +557,7 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 - James Pond II - Robocod
 - **Jikkyou Oshaberi Parodius**
 - Joe & Mac
+- Kendo Rage
 - KiKi KaiKai (Pocky & Rocky)
 - **The King of Dragons**
 - **Kirby's Dream Land 3**

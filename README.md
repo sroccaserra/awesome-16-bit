@@ -46,6 +46,7 @@
 - Harlequin
 - Hybris
 - **IK+**
+- Jaguar XJ220
 - Katakis
 - Kick-off 2
 - King's Quest I: Quest for the Crown

@@ -40,6 +40,7 @@
 - **First Samurai**
 - **Flashback**
 - Gemini Wing
+- Globdule
 - **Golden Axe**
 - **Gods**
 - Great Giana Sisters
@@ -56,9 +57,11 @@
 - Lethal Xcess: Wings of Death II
 - Lionheart
 - **Llamatron**
+- Lollypop
 - Loom
 - **Lotus Esprit Turbo Challenge**
 - **Lotus Turbo Challenge 2**
+- Lotus III
 - Lure of the Tempress
 - Magic Pockets
 - Le Manoir de Mortevielle
@@ -68,6 +71,7 @@
 - **Moonstone**
 - Naughty Ones
 - Nitro
+- Odyssey
 - Operation Stealth
 - Overdrive
 - **Pang**
@@ -98,9 +102,11 @@
 - Switchblade II
 - Syndicate
 - Toki
+- Traps'n'Treasures
 - **Turrican**
 - **Turrican II**
 - Turrican 3
+- Ugh!
 - Les Voyageurs du Temps : La Menace (Future Wars)
 - **Vroom**
 - Waxworks

@@ -398,6 +398,7 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 - Blazing Star
 - Breakers
 - Breakers Revenge
+- Cyber-Lip
 - **Garou - Mark of the Wolves**
 - **The King of Fighters '98 - Dream Match Never Ends**
 - Last Resort

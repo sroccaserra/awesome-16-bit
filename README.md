@@ -221,7 +221,7 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 - Snow Bros.: Nick & Tom
 - Spider-Man: The Video Game
 - Splatter House
-- Street Fighter II: The World Warriors
+- Street Fighter II: The World Warrior
 - **Street Fighter II Dash** (Street Fighter II': Champion Edition)
 - Street Fighter II Dash Turbo (Street Fighter II' Turbo: Hyper Fighting)
 - **Street Fighter III: 3rd Strike**
@@ -626,7 +626,8 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 - Sparkster
 - Spider-Man: Maximum Carnage
 - **Star Fox** (Starwing)
-- **Street Fighter II Turbo**
+- Street Fighter II: The World Warrior
+- **Street Fighter II' Turbo: Hyper Fighting**
 - Street Fighter Zero 2
 - Street Racer
 - Strike Gunner STG

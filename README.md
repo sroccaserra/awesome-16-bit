@@ -171,6 +171,7 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 - Golden Axe: The Revenge of Death Adder
 - **Gradius**
 - Gratia - Second Earth
+- Guardians: Denjin Makai II
 - Gunforce 2
 - Hangzo
 - Hat Trick Hero (Football Champ)
@@ -394,6 +395,7 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 
 ## Awesome Neo Geo games
 
+- Aggressors of Dark Kombat
 - Alpha Mission II (ASO II)
 - Andro Dunos
 - Bang Bang Busters

@@ -131,10 +131,12 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 - Batsugun
 - **Battle Garegga**
 - Battletoads Arcade
+- Bay Route
 - Biomechanical Toy
 - Blade Master
 - Boogie Wings
 - Cadillacs and Dinosaurs
+- Captain America and the Avengers
 - Carrier Airwing
 - The Combatribes
 - Cosmic Cop
@@ -183,6 +185,7 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 - In the Hunt (Undersea War / Kaitei Daisensou)
 - Joe and Mac: Caveman Ninja
 - Karnov
+- **Ketsui ~ Kizuna Jigoku Tachi**
 - Kyuukyoku Tiger (Twin Cobra)
 - Liquid Kids
 - Lucky & Wild
@@ -246,6 +249,7 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 - V・V (Grind Stormer)
 - Vampire Hunter II
 - Vampire Savior II
+- Vendetta
 - Vimana
 - Violent Storm
 - Wild West C.O.W.-Boys of Moo Mesa

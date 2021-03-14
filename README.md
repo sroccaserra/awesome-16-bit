@@ -190,6 +190,7 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 - Liquid Kids
 - Lucky & Wild
 - Magical Crystals
+- Mahou Daisakusen (Sorcer Striker)
 - Mars Matrix
 - Marvel Super Heroes vs. Street Fighter
 - Marvel vs. Capcom: Clash of Super Heroes
@@ -231,6 +232,7 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 - **Street Fighter III: 3rd Strike**
 - Street Fighter Zero 3 (Street Fighter Alpha 3)
 - **Strider Hiryu**
+- Strikers 1945 II
 - Sunset Riders
 - Super Street Fighter II: The New Challengers
 - **Super Street Fighter II X** (Super Street Fighter II Turbo)

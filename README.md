@@ -261,6 +261,7 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 - X-Men
 - X-Men vs. Street Fighter
 - XMultiply
+- Zero Team
 - Zero Wing
 
 ## Awesome Mega Drive games
@@ -461,6 +462,7 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 - Neutopia II
 - The New Zealand Story
 - Ordyne
+- Override
 - **Parasol Stars - The Story of Bubble Bobble 3**
 - **Parodius Da! - Shinwa kara Owarai e**
 - **PC Denjin - Punkic Cyborgs**

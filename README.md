@@ -129,6 +129,7 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 - B. Rap Boys
 - Bang Bang Busters
 - Batsugun
+- **Batsugun Special Version**
 - **Battle Garegga**
 - Battletoads Arcade
 - Bay Route

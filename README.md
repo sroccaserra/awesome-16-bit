@@ -168,6 +168,7 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 - Fixed Eight
 - Galmedes
 - The Game Paradise
+- Gaia Crusaders
 - Gaiapolis
 - GigaWing
 - **Golden Axe**
@@ -540,6 +541,7 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 - **Chrono Trigger**
 - The Combatribes
 - **Contra Spirit** (Contra III)
+- Cosmo Gang the Video
 - Cybernator
 - Death and Return of Superman
 - Demon's Crest

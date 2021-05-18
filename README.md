@@ -611,6 +611,7 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 - **The Ninja Warriors Again**
 - Nosferatu
 - Ogre Battle: March of the Black Queen
+- Operation Logic Bomb
 - Out to Lunch
 - **Parodius Da!**
 - Phalanx
@@ -632,6 +633,7 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 - **Rushing Beat Shura** (The Peace Keepers)
 - **Secret of Mana** (Seiken densetsu 2)
 - The Shadow
+- **Shin Kidō Senki Gundam Wing: Endless Duel**
 - Skyblazer
 - Soccer Kid
 - Sonic Blastman II

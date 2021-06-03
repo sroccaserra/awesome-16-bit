@@ -215,6 +215,7 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 - The Punisher
 - **R-Type**
 - **R-Type II**
+- Rabbit
 - Rapid Hero (Arcadian)
 - **Raiden**
 - **Raiden DX**

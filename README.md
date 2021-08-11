@@ -91,7 +91,7 @@
 - **Sensible Soccer**
 - **Shadow of the Beast**
 - **Shadow of the Beast II**
-- Shadow of the Beast III
+- **Shadow of the Beast III**
 - Skidmarks
 - Soccer Kid
 - **Space Quest III: The Pirates of Pestulon**
@@ -279,7 +279,7 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 - Arrow Flash
 - Atomic Robo-Kid
 - Atomic Runner
-- Bare Knuckles (Streets of Rage) [Beat 'em up] = Musique, 2 Players
+- **Bare Knuckles** (Streets of Rage) [Beat 'em up] = Musique, 2 Players
 - **Bare Knuckles II** (Streets of Rage II) [Beat 'em up] = Musique, 2 Players
 - Bare Knuckles III (Streets of Rage III) [Beat 'em up] = Musique, 2 Players
 - Batman
@@ -294,7 +294,7 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 - **Contra: The Hard Corps** [Run and gun] = 2 Players
 - Crusader of Centy (Soleil) [ARPG]
 - Dangerous Seed
-- Devil Crash MD
+- **Devil Crash MD**
 - Double Dragon
 - **Dynamite Headdy** [Platformer]
 - Elemental Master [Shmup] = Musique
@@ -340,14 +340,14 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 - Ranger X
 - Ristar
 - **Road Rash** [Racing] = Musique
-- Road Rash II [Racing] = Musique
+- **Road Rash II** [Racing] = Musique
 - Road Rash 3 [Racing] = Musique
 - Robocod [Platformer (Euro)]
-- Rocket Knight Adventure
+- **Rocket Knight Adventure**
 - Rolling Thunder 2
 - Rolling Thunder 3
 - **Shadow Dancer** [Action]
-- Shining Force II [TRPG]
+- **Shining Force II** [TRPG]
 - **Snow Bros.: Nick & Tom** [Arcade Platformer] = 2 Players
 - Sol Deace
 - **Sonic the Hedgehog** [Platformer] = Musique
@@ -389,7 +389,7 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 ## Awesome Mega CD games
 
 - **Bari-Arm**
-- **Dennin Aleste** (Robo Aleste)
+- Dennin Aleste (Robo Aleste)
 - Dune
 - **Final Fight**
 - **Keiou Yuugekitai** (Keio Flying Squadron)
@@ -415,7 +415,7 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 - Cyber-Lip
 - **Garou - Mark of the Wolves**
 - **The King of Fighters '98 - Dream Match Never Ends**
-- Last Resort
+- **Last Resort**
 - Magical Drop II
 - Magician Lord
 - **Metal Slug - Super Vehicle-001**

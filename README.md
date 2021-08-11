@@ -126,18 +126,22 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 - Arabian Magic
 - Ashura Blaster
 - Area 88 (U.N. Squadron)
+- Armored Warriors
 - B. Rap Boys
 - Bang Bang Busters
 - Batsugun
 - **Batsugun Special Version**
+- Battle Circuit
 - **Battle Garegga**
 - Battletoads Arcade
 - Bay Route
 - Biomechanical Toy
+- Bishoujo Senshi Sailor Moon
 - Blade Master
 - Boogie Wings
 - Cadillacs and Dinosaurs
 - Captain America and the Avengers
+- Captain Commando
 - Carrier Airwing
 - The Combatribes
 - Cosmic Cop
@@ -412,6 +416,7 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 - Blazing Star
 - Breakers
 - Breakers Revenge
+- Burning Fight
 - Cyber-Lip
 - **Garou - Mark of the Wolves**
 - **The King of Fighters '98 - Dream Match Never Ends**

@@ -280,6 +280,7 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 - **Alien Soldier** [Run and gun] = Now is time to the 68000 heart on fire!
 - Alien Storm
 - Alisia Dragoon [Action / Platformer]
+- Another World (Out of this World)
 - Arrow Flash
 - Atomic Robo-Kid
 - Atomic Runner
@@ -295,11 +296,16 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 - **Castle of Illusion** [Platformer]
 - **Chaos Engine** [Run and gun (Euro)] = 2 Players
 - Chiki Chiki Boys (Mega Twins)
+- Combat Cars
 - **Contra: The Hard Corps** [Run and gun] = 2 Players
+- Cool Spot
 - Crusader of Centy (Soleil) [ARPG]
 - Dangerous Seed
+- Demolition Man
 - **Devil Crash MD** (Dragon's Fury)
+- Dino Dini's Soccer (Goal!)
 - Double Dragon
+- Dune - The Battle for Arrakis (Dune II)
 - **Dynamite Headdy** [Platformer]
 - Elemental Master [Shmup] = Musique
 - **Eliminate Down** [Shmup]
@@ -323,6 +329,9 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 - High Seas Havoc
 - Insector X [Shmup]
 - Joe & Mac
+- King's Bounty
+- Lemmings
+- Lemmings 2 Tribes
 - Mazin Saga/Mazin Wars
 - **Mega Turrican**
 - Mega Man: The Wily Wars (Rockman Mega World)
@@ -333,11 +342,15 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 - Mr. Nutz
 - Ms. Pac-Man
 - **Musha Aleste** [Shmup] = Musique
+- NBA Jam
 - Outrun [Arcade Racing] = Musique
+- Panorama Cotton
 - Phantasy Star II [JRPG] = Musique
 - **Phantasy Star IV** [JRPG] = Musique
 - Phelios [Shmup]
+- Pirates of Dark Water
 - Prince of Persia
+- Puggsy
 - Pulseman
 - The Punisher
 - **Puyo Puyo Tsuu** [Arcade Vs. Puzzle] = 2 Players
@@ -351,10 +364,13 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 - **Road Rash II** [Racing] = Musique
 - Road Rash 3 [Racing] = Musique
 - Robocod [Platformer (Euro)]
+- Robocop Versus the Terminator
 - **Rocket Knight Adventure**
 - Rolling Thunder 2
 - Rolling Thunder 3
 - **Shadow Dancer** [Action]
+- Shadow of the Beast
+- ShiKinJou
 - **Shining Force II** [TRPG]
 - Slap Fight
 - **Snow Bros.: Nick & Tom** [Arcade Platformer] = 2 Players
@@ -365,10 +381,14 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 - Spider-Man: Maximum Carnage
 - **Splatter House Part 2** [Arcade Action]
 - Splatter House 3
+- Star Control
+- Starflight
 - Steel Empire (Empire of Steel) [Shmup]
 - **Street Fighter II Champion Edition**
 - **Strider** [Arcade Action / Platformer]
+- Super Fantasy Zone
 - Super Hang-On [Arcade Racing] = Musique
+- Super Off Road
 - Sword of Vermillon [ARPG]
 - **The Super Shinobi** (The Revenge of Shinobi) [Action] = Musique
 - **The Super Shinobi II** (Shinobi III) [Action]
@@ -376,9 +396,13 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 - **Tatsujin** (Truxton) [Arcade Shmup] = Musique
 - **Thunderforce III** [Shmup] = Musique
 - **Thunderforce IV** [Shmup] = Musique
+- Tinhead
 - Twin Cobra [Arcade Shmup]
 - Twinkle Tale
+- Tyrants (Mega lo Mania)
+- Ultracore
 - Undead Line [Shmup]
+- Universal Soldier (Turrican II)
 - V-V (Grindstormer) [Arcade Shmup]
 - Valis III [Action / Platformer]
 - Vapor Trail [Shmup]
@@ -393,6 +417,7 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 - Ys III: Wanderers from Ys [ARPG] = Musique
 - Yu Yu Hakusho
 - Warsong [RPG]
+- Wiz 'n' Liz
 - Zero Wing [Arcade Shmup] = Musique
 
 ## Awesome Mega CD games

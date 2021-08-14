@@ -288,12 +288,15 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 - **Bare Knuckles II** (Streets of Rage II) [Beat 'em up] = Musique, 2 Players
 - Bare Knuckles III (Streets of Rage III) [Beat 'em up] = Musique, 2 Players
 - Batman
-- Battle Maniacs (aka Trouble Shooters) [Shmup]
+- Battle Mania (aka Trouble Shooter) [Shmup]
+- Battle Mania Daiginjō
 - Battletoads
+- Battletoads & Double Dragon
 - Bio-Hazard Battle (Crying: Aseimei Sensou) [Shmup]
 - Blades of Vengeance
 - **Castlevania Bloodlines** (Vampire Killer) [Action / Platformer] = Musique
 - **Castle of Illusion** [Platformer]
+- Championship Pro-Am
 - **Chaos Engine** [Run and gun (Euro)] = 2 Players
 - Chiki Chiki Boys (Mega Twins)
 - Combat Cars
@@ -307,11 +310,14 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 - Double Dragon
 - Dune - The Battle for Arrakis (Dune II)
 - **Dynamite Headdy** [Platformer]
+- Earthworm Jim
+- Earthworm Jim 2
 - Elemental Master [Shmup] = Musique
 - **Eliminate Down** [Shmup]
 - **El Viento** [Action / Platformer]
 - Ex-Ranza (Ranger X)
 - F1 (Vroom)
+- Fire Mustang
 - Fire Shark (Same! Same! Same!) [Arcade Shmup]
 - **Flashback**
 - Flink
@@ -332,6 +338,7 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 - King's Bounty
 - Lemmings
 - Lemmings 2 Tribes
+- Marvel Land
 - Mazin Saga/Mazin Wars
 - **Mega Turrican**
 - Mega Man: The Wily Wars (Rockman Mega World)
@@ -342,6 +349,8 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 - Mr. Nutz
 - Ms. Pac-Man
 - **Musha Aleste** [Shmup] = Musique
+- Mystical Fighter
+- Mystic Defender
 - NBA Jam
 - Outrun [Arcade Racing] = Musique
 - Panorama Cotton
@@ -366,8 +375,10 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 - Robocod [Platformer (Euro)]
 - Robocop Versus the Terminator
 - **Rocket Knight Adventure**
-- Rolling Thunder 2
+- **Rolling Thunder 2**
 - Rolling Thunder 3
+- Sagaia (Darius II)
+- Sensible Soccer International
 - **Shadow Dancer** [Action]
 - Shadow of the Beast
 - ShiKinJou
@@ -378,22 +389,27 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 - **Sonic the Hedgehog** [Platformer] = Musique
 - Sonic the Hedgehog 2 [Platformer] = Musique
 - Sonic the Hedgehog 3 & Knuckles [Platformer] = Musique
+- Space Invaders 91
+- Sparkster
 - Spider-Man: Maximum Carnage
 - **Splatter House Part 2** [Arcade Action]
 - Splatter House 3
 - Star Control
 - Starflight
 - Steel Empire (Empire of Steel) [Shmup]
+- Storm Lord
 - **Street Fighter II Champion Edition**
 - **Strider** [Arcade Action / Platformer]
 - Super Fantasy Zone
 - Super Hang-On [Arcade Racing] = Musique
 - Super Off Road
+- **Super Street Fighter II**
 - Sword of Vermillon [ARPG]
 - **The Super Shinobi** (The Revenge of Shinobi) [Action] = Musique
 - **The Super Shinobi II** (Shinobi III) [Action]
 - Super Skidmarks
 - **Tatsujin** (Truxton) [Arcade Shmup] = Musique
+- Teenage Mutant Ninja Turtles: Hyper Stone Heist
 - **Thunderforce III** [Shmup] = Musique
 - **Thunderforce IV** [Shmup] = Musique
 - Tinhead
@@ -408,6 +424,7 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 - Vapor Trail [Shmup]
 - Vectorman
 - Verytex [Shmup] = Musique
+- Wani Wani World
 - Whip Rush [Shmup]
 - Wings of Wor (Gynoug) [Shmup]
 - **Wonderboy in Monster World** [Platformer / ARPG]

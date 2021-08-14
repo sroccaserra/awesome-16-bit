@@ -298,7 +298,7 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 - **Contra: The Hard Corps** [Run and gun] = 2 Players
 - Crusader of Centy (Soleil) [ARPG]
 - Dangerous Seed
-- **Devil Crash MD**
+- **Devil Crash MD** (Dragon's Fury)
 - Double Dragon
 - **Dynamite Headdy** [Platformer]
 - Elemental Master [Shmup] = Musique
@@ -311,6 +311,7 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 - Flink
 - **Gaiares** [Shmup]
 - Gain Ground
+- Gauntlet 4
 - Ghouls'n Ghosts [Arcade Action / Platformer]
 - **Gley Lancer** (Advanced Busterhawk Gley Lancer) [Shmup]
 - Gods [Action / Platformer (Euro)]
@@ -330,11 +331,13 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 - Moonwalker
 - Mortal Kombat II
 - Mr. Nutz
+- Ms. Pac-Man
 - **Musha Aleste** [Shmup] = Musique
 - Outrun [Arcade Racing] = Musique
 - Phantasy Star II [JRPG] = Musique
 - **Phantasy Star IV** [JRPG] = Musique
 - Phelios [Shmup]
+- Prince of Persia
 - Pulseman
 - The Punisher
 - **Puyo Puyo Tsuu** [Arcade Vs. Puzzle] = 2 Players
@@ -343,6 +346,7 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 - Rainbow Islands [Arcade Platformer]
 - Ranger X
 - Ristar
+- Road Blasters
 - **Road Rash** [Racing] = Musique
 - **Road Rash II** [Racing] = Musique
 - Road Rash 3 [Racing] = Musique
@@ -352,6 +356,7 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 - Rolling Thunder 3
 - **Shadow Dancer** [Action]
 - **Shining Force II** [TRPG]
+- Slap Fight
 - **Snow Bros.: Nick & Tom** [Arcade Platformer] = 2 Players
 - Sol Deace
 - **Sonic the Hedgehog** [Platformer] = Musique

@@ -11,6 +11,9 @@
 - [Awesome PC Engine CD games](#awesome-pc-engine-cd-games)
 - [Awesome Super Famicom games](#awesome-super-famicom-games)
 
+See also:
+- https://github.com/sroccaserra/awsome-video-game-music
+
 ## Awesome Amiga games
 
 - Agony

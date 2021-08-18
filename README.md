@@ -555,7 +555,7 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 - Loom
 - **Nexzr**
 - R-Type Complete
-- Rainbow Islands
+- **Rainbow Islands**
 - Rayxanber II
 - Rayxanber III
 - **Seirei Senshi Spriggan**

@@ -276,6 +276,8 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 
 ## Awesome Mega Drive games
 
+See also: [Top Mega Drive Games](./top_mega_drive_games.md)
+
 - The Addams Family
 - The Adventures Of Batman & Robin
 - Aero Blasters (Air Buster) [Arcade Shmup]

@@ -283,7 +283,7 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 - **Alien Soldier** [Run and gun] = Now is time to the 68000 heart on fire!
 - Alien Storm
 - Alisia Dragoon [Action / Platformer]
-- Another World (Out of this World)
+- **Another World** (Out of this World)
 - Arrow Flash
 - Atomic Robo-Kid
 - Atomic Runner
@@ -327,7 +327,7 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 - **Gaiares** [Shmup]
 - Gain Ground
 - Gauntlet 4
-- Ghouls'n Ghosts [Arcade Action / Platformer]
+- **Ghouls'n Ghosts** [Arcade Action / Platformer]
 - **Gley Lancer** (Advanced Busterhawk Gley Lancer) [Shmup]
 - Gods [Action / Platformer (Euro)]
 - **Golden Axe** [Arcade Beat 'em up] = 2 Players
@@ -368,7 +368,7 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 - **Puyo Puyo Tsuu** [Arcade Vs. Puzzle] = 2 Players
 - **Quackshot** [Platformer]
 - Raiden Trad [Arcade Shmup]
-- Rainbow Islands [Arcade Platformer]
+- **Rainbow Islands** [Arcade Platformer]
 - Ranger X
 - Ristar
 - Road Blasters
@@ -386,7 +386,7 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 - Shadow of the Beast
 - ShiKinJou
 - **Shining Force II** [TRPG]
-- Slap Fight
+- Slap Fight MD
 - **Snow Bros.: Nick & Tom** [Arcade Platformer] = 2 Players
 - Sol Deace
 - **Sonic the Hedgehog** [Platformer] = Musique

@@ -3,65 +3,91 @@
 Note: not everybody's top games, I use this list to quickly decide what game to
 play.
 
+### Awesome Action Games
+
 - Alien Soldier
-- Alien Storm
 - Alisia Dragoon
-- Another World (Out of this World)
-- Bare Knuckles (Streets of Rage)
-- Bare Knuckles II (Streets of Rage II)
 - Castlevania Bloodlines (Vampire Killer)
-- Castle of Illusion
-- Chaos Engine
 - Contra: The Hard Corps
-- Devil Crash MD (Dragon's Fury)
-- Dynamite Headdy
-- Earthworm Jim
-- Eliminate Down
+- Chaos Engine
 - El Viento
+- Gunstar Heroes
+- Mega Turrican
+- Shadow Dancer
+- The Super Shinobi (The Revenge of Shinobi)
+- The Super Shinobi II (Shinobi III)
+
+### Awesome Arcade Ports
+
+- Alien Storm
 - Fire Shark (Same! Same! Same!)
-- Flashback
-- Gaiares
 - Gain Ground
 - Ghouls'n Ghosts
-- Gley Lancer (Advanced Busterhawk Gley Lancer)
-- Gods
 - Golden Axe
-- Gunstar Heroes
 - Hellfire
-- Lemmings
-- Mega Turrican
-- Mega Man: The Wily Wars (Rockman Mega World)
 - Mortal Kombat II
 - Ms. Pac-Man
-- Musha Aleste
 - Outrun
-- Phantasy Star IV
-- Puyo Puyo
-- Quackshot
+- Puyo Puyo Tsuu
 - Rainbow Islands
-- Road Rash
-- Road Rash II
-- Rocket Knight Adventure
 - Rolling Thunder 2
-- Sensible Soccer International
-- Shadow Dancer
-- Shining Force II
 - Snow Bros.: Nick & Tom
-- Sonic the Hedgehog
-- Sonic the Hedgehog 2
-- Splatter House Part 2
 - Street Fighter II Champion Edition
 - Strider
 - Super Hang-On
 - Super Street Fighter II
-- The Super Shinobi (The Revenge of Shinobi)
-- The Super Shinobi II (Shinobi III)
 - Tatsujin (Truxton)
-- Teenage Mutant Ninja Turtles: Hyper Stone Heist
+- Twin Cobra
+- Zero Wing
+
+### Awesome Exclusive Shmups
+
+- Eliminate Down
+- Gaiares
+- Gley Lancer (Advanced Busterhawk Gley Lancer)
+- Musha Aleste
 - Thunderforce III
 - Thunderforce IV
-- Twin Cobra
-- Universal Soldier (Turrican II)
 - Wings of Wor (Gynoug)
-- Wonderboy in Monster World [Platformer / ARPG]
-- Zero Wing
+
+### Awesome Exclusive Fighting Games
+
+- Bare Knuckles (Streets of Rage)
+- Bare Knuckles II (Streets of Rage II)
+- Splatter House Part 2
+- Teenage Mutant Ninja Turtles: Hyper Stone Heist
+
+### Awesome Racing Games
+
+- Road Rash
+- Road Rash II
+
+### Awesome Pinball Game
+
+- Devil Crash MD (Dragon's Fury)
+
+### Awesome Platform Games
+
+- Castle of Illusion
+- Dynamite Headdy
+- Earthworm Jim
+- Mega Man: The Wily Wars (Rockman Mega World)
+- Quackshot
+- Rocket Knight Adventure
+- Sonic the Hedgehog
+- Sonic the Hedgehog 2
+- Wonderboy in Monster World
+
+### Awesome RPGs
+
+- Phantasy Star IV
+- Shining Force II
+
+### Awesome Other European Games
+
+- Another World (Out of this World)
+- Flashback
+- Gods
+- Lemmings
+- Sensible Soccer International
+- Universal Soldier (Turrican II)

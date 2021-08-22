@@ -1,5 +1,7 @@
 ## Top Mega Drive Games
 
+See also: [Awesome Mega Drive Games](./README.md#awesome-mega-drive-games)
+
 - The Addams Family
 - The Adventures Of Batman & Robin
 - Aero Blasters (Air Buster) [Arcade Shmup]

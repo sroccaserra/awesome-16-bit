@@ -1,93 +1,165 @@
 ## Top Mega Drive Games
 
-Note: not everybody's top games, I use this list to quickly decide what game to
-play.
-
-### Awesome Action Games
-
-- Alien Soldier
-- Alisia Dragoon
-- Castlevania Bloodlines (Vampire Killer)
-- Contra: The Hard Corps
-- Chaos Engine
-- El Viento
-- Gunstar Heroes
-- Mega Turrican
-- Shadow Dancer
-- The Super Shinobi (The Revenge of Shinobi)
-- The Super Shinobi II (Shinobi III)
-
-### Awesome Arcade Ports
-
+- The Addams Family
+- The Adventures Of Batman & Robin
+- Aero Blasters (Air Buster) [Arcade Shmup]
+- Aladdin [Action / Platformer]
+- **Alien Soldier** [Run and gun] = Now is time to the 68000 heart on fire!
 - Alien Storm
-- Fire Shark (Same! Same! Same!)
-- Gain Ground
-- Ghouls'n Ghosts
-- Golden Axe
-- Hellfire
-- Mortal Kombat II
-- Ms. Pac-Man
-- Outrun
-- Puyo Puyo Tsuu
-- Rainbow Islands
-- Rolling Thunder 2
-- Snow Bros.: Nick & Tom
-- Street Fighter II Champion Edition
-- Strider
-- Super Hang-On
-- Super Street Fighter II
-- Tatsujin (Truxton)
-- Twin Cobra
-- Zero Wing
-
-### Awesome Exclusive Shmups
-
-- Eliminate Down
-- Gaiares
-- Gley Lancer (Advanced Busterhawk Gley Lancer)
-- Musha Aleste
-- Thunderforce III
-- Thunderforce IV
-- Wings of Wor (Gynoug)
-
-### Awesome Exclusive Fighting Games
-
-- Bare Knuckles (Streets of Rage)
-- Bare Knuckles II (Streets of Rage II)
-- Splatter House Part 2
-- Teenage Mutant Ninja Turtles: Hyper Stone Heist
-
-### Awesome Racing Games
-
-- Road Rash
-- Road Rash II
-
-### Awesome Pinball Game
-
-- Devil Crash MD (Dragon's Fury)
-
-### Awesome Platform Games
-
-- Castle of Illusion
-- Dynamite Headdy
+- Alisia Dragoon [Action / Platformer]
+- **Another World** (Out of this World)
+- Arrow Flash
+- Atomic Robo-Kid
+- Atomic Runner
+- **Bare Knuckles** (Streets of Rage) [Beat 'em up] = Musique, 2 Players
+- **Bare Knuckles II** (Streets of Rage II) [Beat 'em up] = Musique, 2 Players
+- Bare Knuckles III (Streets of Rage III) [Beat 'em up] = Musique, 2 Players
+- Batman
+- Battle Mania (aka Trouble Shooter) [Shmup]
+- Battle Mania Daiginjō
+- Battletoads
+- Battletoads & Double Dragon
+- Bio-Hazard Battle (Crying: Aseimei Sensou) [Shmup]
+- Blades of Vengeance
+- **Castlevania Bloodlines** (Vampire Killer) [Action / Platformer] = Musique
+- **Castle of Illusion** [Platformer]
+- Championship Pro-Am
+- **Chaos Engine** [Run and gun (Euro)] = 2 Players
+- Chiki Chiki Boys (Mega Twins)
+- Combat Cars
+- **Contra: The Hard Corps** [Run and gun] = 2 Players
+- Cool Spot
+- Crusader of Centy (Soleil) [ARPG]
+- Dangerous Seed
+- Demolition Man
+- **Devil Crash MD** (Dragon's Fury)
+- Dino Dini's Soccer (Goal!)
+- Double Dragon
+- Dune - The Battle for Arrakis (Dune II)
+- **Dynamite Headdy** [Platformer]
 - Earthworm Jim
-- Mega Man: The Wily Wars (Rockman Mega World)
-- Quackshot
-- Rocket Knight Adventure
-- Sonic the Hedgehog
-- Sonic the Hedgehog 2
-- Wonderboy in Monster World
-
-### Awesome RPGs
-
-- Phantasy Star IV
-- Shining Force II
-
-### Awesome Other European Games
-
-- Another World (Out of this World)
-- Flashback
-- Gods
+- Earthworm Jim 2
+- Elemental Master [Shmup] = Musique
+- **Eliminate Down** [Shmup]
+- **El Viento** [Action / Platformer]
+- Ex-Ranza (Ranger X)
+- F1 (Vroom)
+- Fire Mustang
+- Fire Shark (Same! Same! Same!) [Arcade Shmup]
+- **Flashback**
+- Flink
+- **Gaiares** [Shmup]
+- Gain Ground
+- Gauntlet 4
+- **Ghouls'n Ghosts** [Arcade Action / Platformer]
+- **Gley Lancer** (Advanced Busterhawk Gley Lancer) [Shmup]
+- Gods [Action / Platformer (Euro)]
+- **Golden Axe** [Arcade Beat 'em up] = 2 Players
+- Granada X
+- The Great Circus Mystery (The Magical Quest 2 Starring Mickey and Minnie)
+- **Gunstar Heroes** [Run and gun] = 2 Players
+- Hellfire [Arcade Shmup] = Musique
+- High Seas Havoc
+- Insector X [Shmup]
+- Joe & Mac
+- King's Bounty
 - Lemmings
+- Lemmings 2 Tribes
+- Marvel Land
+- Mazin Saga/Mazin Wars
+- **Mega Turrican**
+- Mega Man: The Wily Wars (Rockman Mega World)
+- Mercs (Senjou No Ookami II)
+- Midnight Resistance
+- Moonwalker
+- Mortal Kombat II
+- Mr. Nutz
+- Ms. Pac-Man
+- **Musha Aleste** [Shmup] = Musique
+- Mystical Fighter
+- Mystic Defender
+- NBA Jam
+- Outrun [Arcade Racing] = Musique
+- Panorama Cotton
+- Phantasy Star II [JRPG] = Musique
+- **Phantasy Star IV** [JRPG] = Musique
+- Phelios [Shmup]
+- Pirates of Dark Water
+- Prince of Persia
+- Puggsy
+- Pulseman
+- The Punisher
+- **Puyo Puyo Tsuu** [Arcade Vs. Puzzle] = 2 Players
+- **Quackshot** [Platformer]
+- Raiden Trad [Arcade Shmup]
+- **Rainbow Islands** [Arcade Platformer]
+- Ranger X
+- Ristar
+- Road Blasters
+- **Road Rash** [Racing] = Musique
+- **Road Rash II** [Racing] = Musique
+- Road Rash 3 [Racing] = Musique
+- Robocod [Platformer (Euro)]
+- Robocop Versus the Terminator
+- **Rocket Knight Adventure**
+- **Rolling Thunder 2**
+- Rolling Thunder 3
+- Sagaia (Darius II)
 - Sensible Soccer International
+- **Shadow Dancer** [Action]
+- Shadow of the Beast
+- ShiKinJou
+- **Shining Force II** [TRPG]
+- Slap Fight MD
+- **Snow Bros.: Nick & Tom** [Arcade Platformer] = 2 Players
+- Sol Deace
+- **Sonic the Hedgehog** [Platformer] = Musique
+- Sonic the Hedgehog 2 [Platformer] = Musique
+- Sonic the Hedgehog 3 & Knuckles [Platformer] = Musique
+- Space Invaders 91
+- Sparkster
+- Spider-Man: Maximum Carnage
+- **Splatter House Part 2** [Arcade Action]
+- Splatter House 3
+- Star Control
+- Starflight
+- Steel Empire (Empire of Steel) [Shmup]
+- Storm Lord
+- **Street Fighter II Champion Edition**
+- **Strider** [Arcade Action / Platformer]
+- Super Fantasy Zone
+- Super Hang-On [Arcade Racing] = Musique
+- Super Off Road
+- **Super Street Fighter II**
+- Sword of Vermillon [ARPG]
+- **The Super Shinobi** (The Revenge of Shinobi) [Action] = Musique
+- **The Super Shinobi II** (Shinobi III) [Action]
+- Super Skidmarks
+- **Tatsujin** (Truxton) [Arcade Shmup] = Musique
+- Teenage Mutant Ninja Turtles: Hyper Stone Heist
+- **Thunderforce III** [Shmup] = Musique
+- **Thunderforce IV** [Shmup] = Musique
+- Tinhead
+- Twin Cobra [Arcade Shmup]
+- Twinkle Tale
+- Tyrants (Mega lo Mania)
+- Ultracore
+- Undead Line [Shmup]
 - Universal Soldier (Turrican II)
+- V-V (Grindstormer) [Arcade Shmup]
+- Valis III [Action / Platformer]
+- Vapor Trail [Shmup]
+- Vectorman
+- Verytex [Shmup] = Musique
+- Wani Wani World
+- Whip Rush [Shmup]
+- Wings of Wor (Gynoug) [Shmup]
+- **Wonderboy in Monster World** [Platformer / ARPG]
+- Wonderboy Monster World IV [Platformer / ARPG]
+- World of Illusion [Platformer]
+- X-Men II [Action]
+- Ys III: Wanderers from Ys [ARPG] = Musique
+- Yu Yu Hakusho
+- Warsong [RPG]
+- Wiz 'n' Liz
+- Zero Wing [Arcade Shmup] = Musique

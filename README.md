@@ -33,14 +33,6 @@ See also: [Good Amiga Games](./good_amiga_games.md)
 - Turrican
 - Turrican II
 
-### Awesome Arcade Ports
-
-- Golden Axe
-- Pang
-- Rainbow Islands
-- Rod Land
-- R-Type
-
 ### Awesome Adventure Games
 
 - Dune
@@ -49,6 +41,14 @@ See also: [Good Amiga Games](./good_amiga_games.md)
 - Lure of the Tempress
 - The Secret of Monkey Island
 - Space Quest III: The Pirates of Pestulon
+
+### Awesome Arcade Ports
+
+- Golden Axe
+- Pang
+- Rainbow Islands
+- Rod Land
+- R-Type
 
 ### Awesome Dungeon Crawlers
 

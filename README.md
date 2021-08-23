@@ -18,52 +18,86 @@ See also:
 
 See also: [Good Amiga Games](./good_amiga_games.md)
 
+### Awesome Action Games
+
 - Another World
-- Apidya
-- Battle Squadron
-- BC Kid
-- Black Crypt
-- The Chaos Engine
-- Dune
-- Dyna Blaster
-- Fire and Ice
 - First Samurai
+- The Chaos Engine
 - Flashback
-- Golden Axe
 - Gods
-- IK+
-- King's Quest I: Quest for the Crown
-- Lemmings
-- Lemmings 2
-- Llamatron
-- Loom
-- Lotus Esprit Turbo Challenge
-- Lotus Turbo Challenge 2
-- Lure of the Tempress
 - Moonstone
-- Pang
-- Pinball Dreams
-- Pinball Fantasies
 - Prince of Persia
-- Rainbow Islands
-- Rick Dangerous
-- Rick Dangerous II
-- Road Rash
-- Rod Land
-- The Secret of Monkey Island
-- Sensible Soccer
 - Shadow of the Beast
 - Shadow of the Beast II
 - Shadow of the Beast III
-- Skidmarks
-- Space Quest III: The Pirates of Pestulon
-- Speedball 2: Brutal Deluxe
-- Supercars II
-- Syndicate
 - Turrican
 - Turrican II
+
+### Awesome Arcade Ports
+
+- Golden Axe
+- Pang
+- Rainbow Islands
+- Rod Land
+
+### Awesome Adventure Games
+
+- Dune
+- King's Quest I: Quest for the Crown
+- Loom
+- Lure of the Tempress
+- The Secret of Monkey Island
+- Space Quest III: The Pirates of Pestulon
+
+### Awesome Dungeon Crawlers
+
+- Black Crypt
+- Dungeon Master
+- Eye of the Beholder
+
+### Awesome Platform Games
+
+- BC Kid
+- Fire and Ice
+- Rick Dangerous
+- Rick Dangerous II
+
+### Awesome Racing Games
+
+- Lotus Esprit Turbo Challenge
+- Lotus Turbo Challenge 2
+- Road Rash
+- Skidmarks
+- Supercars II
 - Vroom
+
+### Awesome Pinball Games
+
+- Pinball Dreams
+- Pinball Fantasies
+
+### Awesome Puzzle Games
+
+- Lemmings
+- Lemmings 2
+
+### Awesome Shooting Games
+
+- Apidya
+- Battle Squadron
+- Llamatron
+
+### Awesome Sport / Versus Games
+
+- Dyna Blaster (Bomberman)
+- IK+
+- Sensible Soccer
+- Speedball 2: Brutal Deluxe
 - Worms
+
+### Awesome Strategy Game
+
+- Syndicate
 
 ## Awesome Arcade games
 

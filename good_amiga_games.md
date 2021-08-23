@@ -81,6 +81,7 @@ See also: [Awesome Amiga Games](./README.md#awesome-amiga-games)
 - Lotus III
 - Nitro
 - Overdrive
+- Top Gear 2
 
 ### Good Sport / Versus Games
 

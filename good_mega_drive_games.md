@@ -106,12 +106,13 @@ See also: [Awesome Mega Drive Games](./README.md#awesome-mega-drive-games)
 - Championship Pro-Am
 - Combat Cars
 - F1 (Vroom)
+- Lotus Turbo Challenge (Lotus II)
 - Road Blasters
 - Road Rash 3
 - Super Off Road
 - Super Skidmarks
 
-## Good RPGs
+### Good RPGs
 
 - Crusader of Centy (Soleil)
 - King's Bounty
@@ -120,14 +121,14 @@ See also: [Awesome Mega Drive Games](./README.md#awesome-mega-drive-games)
 - Warsong (Langrisser)
 - Ys III: Wanderers from Ys
 
-## Good RTSs
+### Good RTSs
 
 - Dune - The Battle for Arrakis (Dune II)
 - Star Control
 - Starflight
 - Tyrants (Mega lo Mania)
 
-## Good Other European Games
+### Good Other European Games
 
 - Dino Dini's Soccer (Goal!)
 - Lemmings 2 Tribes

@@ -71,6 +71,7 @@ See also: [Awesome Amiga Games](./README.md#awesome-amiga-games)
 ### Good Puzzle / Action Games
 
 - Benefactor
+- Putty
 - Globdule
 - Naughty Ones
 - Ugh!

@@ -77,10 +77,11 @@ See also: [Good Amiga Games](./good_amiga_games.md)
 - Pinball Dreams
 - Pinball Fantasies
 
-### Awesome Puzzle Games
+### Awesome Puzzle / Strategy Games
 
 - Lemmings
 - Lemmings 2
+- Syndicate
 
 ### Awesome Shooting Games
 
@@ -95,10 +96,6 @@ See also: [Good Amiga Games](./good_amiga_games.md)
 - Sensible Soccer
 - Speedball 2: Brutal Deluxe
 - Worms
-
-### Awesome Strategy Game
-
-- Syndicate
 
 ## Awesome Arcade games
 

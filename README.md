@@ -16,108 +16,54 @@ See also:
 
 ## Awesome Amiga games
 
-- Agony
-- Alien Breed
-- Ambermoon
-- **Another World**
-- **Apidya**
-- Arabian Nights
-- B.A.T. II
-- **Battle Squadron**
-- **BC Kid**
-- Benefactor
-- **Black Crypt**
-- Bubble and Squeak
-- Cadaver
-- Captive
-- **The Chaos Engine**
-- Croisière pour un cadavre (Cruise for a Corpse)
-- Darkmere
-- Defender of the Crown
-- Disposable Hero
-- Dragonstone
-- Dreamweb
-- **Dune**
-- **Dyna Blaster**
-- **Fire and Ice**
-- **First Samurai**
-- **Flashback**
-- Gemini Wing
-- Globdule
-- **Golden Axe**
-- **Gods**
-- Great Giana Sisters
-- Harlequin
-- Hybris
-- **IK+**
-- Jaguar XJ220
-- Katakis
-- Kick-off 2
+See also: [Good Amiga Games](./good_amiga_games.md)
+
+- Another World
+- Apidya
+- Battle Squadron
+- BC Kid
+- Black Crypt
+- The Chaos Engine
+- Dune
+- Dyna Blaster
+- Fire and Ice
+- First Samurai
+- Flashback
+- Golden Axe
+- Gods
+- IK+
 - King's Quest I: Quest for the Crown
-- Leander
-- **Lemmings**
-- **Lemmings 2**
-- Lethal Xcess: Wings of Death II
-- Lionheart
-- **Llamatron**
-- Lollypop
+- Lemmings
+- Lemmings 2
+- Llamatron
 - Loom
-- **Lotus Esprit Turbo Challenge**
-- **Lotus Turbo Challenge 2**
-- Lotus III
+- Lotus Esprit Turbo Challenge
+- Lotus Turbo Challenge 2
 - Lure of the Tempress
-- Magic Pockets
-- Le Manoir de Mortevielle
-- Maupiti Island
-- Mega Lo Mania
-- Mikro Mortal Tennis
-- **Moonstone**
-- Naughty Ones
-- Nitro
-- Odyssey
-- Operation Stealth
-- Overdrive
-- **Pang**
-- **Pinball Dreams**
-- **Pinball Fantasies**
+- Moonstone
+- Pang
+- Pinball Dreams
+- Pinball Fantasies
 - Prince of Persia
-- **Project X**
-- **Rainbow Islands**
-- **Rick Dangerous**
-- **Rick Dangerous II**
-- Risky Woods
+- Rainbow Islands
+- Rick Dangerous
+- Rick Dangerous II
 - Road Rash
-- **Rod Land**
-- Robocod - James Pond 2
-- Ruff 'n' Tumble
-- **The Secret of Monkey Island**
-- **Sensible Soccer**
-- **Shadow of the Beast**
-- **Shadow of the Beast II**
-- **Shadow of the Beast III**
+- Rod Land
+- The Secret of Monkey Island
+- Sensible Soccer
+- Shadow of the Beast
+- Shadow of the Beast II
+- Shadow of the Beast III
 - Skidmarks
-- Soccer Kid
-- **Space Quest III: The Pirates of Pestulon**
-- **Speedball 2: Brutal Deluxe**
+- Space Quest III: The Pirates of Pestulon
+- Speedball 2: Brutal Deluxe
 - Supercars II
-- Superfrog
-- Switchblade
-- Switchblade II
 - Syndicate
-- Toki
-- Traps'n'Treasures
-- **Turrican**
-- **Turrican II**
-- Turrican 3
-- Ugh!
-- Les Voyageurs du Temps : La Menace (Future Wars)
-- **Vroom**
-- Waxworks
-- Wings of Death
-- **Worms**
-- Xenon 2
-- Yo! Joe!
-- Z-Out
+- Turrican
+- Turrican II
+- Vroom
+- Worms
 
 ## Awesome Arcade games
 

@@ -81,6 +81,7 @@ See also: [Good Amiga Games](./good_amiga_games.md)
 
 - Lemmings
 - Lemmings 2
+- The Settlers
 - Syndicate
 
 ### Awesome Shooting Games

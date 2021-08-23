@@ -44,8 +44,12 @@ See also: [Awesome Amiga Games](./README.md#awesome-amiga-games)
 
 ### Good Arcade Ports
 
+- Bubble Bobble
+- Liquid Kids
+- The New Zealand Story
 - R-Type II
 - Toki
+- Wonder Boy in Monster Land
 
 ### Good Dungeon Crawlers
 
@@ -71,9 +75,12 @@ See also: [Awesome Amiga Games](./README.md#awesome-amiga-games)
 ### Good Puzzle / Action Games
 
 - Benefactor
-- Putty
+- Flood
 - Globdule
 - Naughty Ones
+- Parasol Stars
+- Putty
+- Snow Bros.
 - Ugh!
 
 ### Good Racing Games

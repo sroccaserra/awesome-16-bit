@@ -39,6 +39,7 @@ See also: [Good Amiga Games](./good_amiga_games.md)
 - Pang
 - Rainbow Islands
 - Rod Land
+- R-Type
 
 ### Awesome Adventure Games
 

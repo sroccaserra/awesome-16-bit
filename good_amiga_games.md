@@ -40,9 +40,10 @@ See also: [Awesome Amiga Games](./README.md#awesome-amiga-games)
 - Nitro
 - Overdrive
 - Prince of Persia
-- **Project X**
+- Project X
 - Risky Woods
 - Robocod - James Pond 2
+- R-Type II
 - Ruff 'n' Tumble
 - Soccer Kid
 - Superfrog

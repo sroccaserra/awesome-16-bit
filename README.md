@@ -276,7 +276,7 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 
 ## Awesome Mega Drive games
 
-See also: [Top Mega Drive Games](./top_mega_drive_games.md)
+See also: [Good Mega Drive Games](./good_mega_drive_games.md)
 
 ### Awesome Action Games
 

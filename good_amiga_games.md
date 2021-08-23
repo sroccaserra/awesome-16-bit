@@ -6,6 +6,7 @@ See also: [Awesome Amiga Games](./README.md#awesome-amiga-games)
 - Arabian Nights
 - B.A.T. II
 - Benefactor
+- Blood Money
 - Bubble and Squeak
 - Cadaver
 - Captive

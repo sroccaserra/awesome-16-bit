@@ -244,6 +244,7 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 - Vendetta
 - Vimana
 - Violent Storm
+- Warrior Blade: Rastan Saga Episode III
 - Wild West C.O.W.-Boys of Moo Mesa
 - Willow
 - Wonder Boy in Monster Land

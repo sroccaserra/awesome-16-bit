@@ -80,7 +80,7 @@ See also: [Awesome Amiga Games](./README.md#awesome-amiga-games)
 - Naughty Ones
 - Parasol Stars
 - Putty
-- Snow Bros.
+- Snow Bros.: Nick & Tom
 - Ugh!
 
 ### Good Racing Games
@@ -93,8 +93,8 @@ See also: [Awesome Amiga Games](./README.md#awesome-amiga-games)
 
 ### Good Sport / Versus Games
 
-- Kick-off 2
 - Mikro Mortal Tennis
+- Ski or Die
 
 ### Good Strategy Games
 

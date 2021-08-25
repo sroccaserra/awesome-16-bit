@@ -94,7 +94,8 @@ See also: [Good Amiga Games](./good_amiga_games.md)
 
 - Dyna Blaster (Bomberman)
 - IK+
-- Sensible Soccer
+- Kick-off 2
+- Sensible World of Soccer
 - Speedball 2: Brutal Deluxe
 - Worms
 

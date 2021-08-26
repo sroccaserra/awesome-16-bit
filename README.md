@@ -264,8 +264,8 @@ See also: [Good Mega Drive Games](./good_mega_drive_games.md)
 - Alien Soldier
 - Alisia Dragoon
 - Castlevania Bloodlines (Vampire Killer)
-- Contra: The Hard Corps
 - Chaos Engine
+- Contra: The Hard Corps
 - El Viento
 - Gunstar Heroes
 - Mega Turrican
@@ -315,6 +315,7 @@ See also: [Good Mega Drive Games](./good_mega_drive_games.md)
 
 ### Awesome Racing Games
 
+- Micro Machines 2
 - Road Rash
 - Road Rash II
 

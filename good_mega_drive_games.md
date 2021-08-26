@@ -107,6 +107,7 @@ See also: [Awesome Mega Drive Games](./README.md#awesome-mega-drive-games)
 - Combat Cars
 - F1 (Vroom)
 - Lotus Turbo Challenge (Lotus II)
+- Lotus II (Lotus III)
 - Road Blasters
 - Road Rash 3
 - Super Off Road

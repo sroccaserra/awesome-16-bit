@@ -266,6 +266,7 @@ See also: [Good Mega Drive Games](./good_mega_drive_games.md)
 - Castlevania Bloodlines (Vampire Killer)
 - Chaos Engine
 - Contra: The Hard Corps
+- Cyber Police ESWAT
 - El Viento
 - Gunstar Heroes
 - Mega Turrican

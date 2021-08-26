@@ -267,7 +267,7 @@ See also: [Good Mega Drive Games](./good_mega_drive_games.md)
 - Chaos Engine
 - Contra: The Hard Corps
 - Cyber Police ESWAT
-- El Viento
+- El. Viento
 - Gunstar Heroes
 - Mega Turrican
 - Shadow Dancer

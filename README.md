@@ -221,7 +221,7 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 - Street Fighter II Dash Turbo (Street Fighter II' Turbo: Hyper Fighting)
 - **Street Fighter III: 3rd Strike**
 - Street Fighter Zero 3 (Street Fighter Alpha 3)
-- **Strider Hiryu**
+- **Strider Hiryū**
 - Strikers 1945 II
 - Sunset Riders
 - Super Street Fighter II: The New Challengers
@@ -289,7 +289,7 @@ See also: [Good Mega Drive Games](./good_mega_drive_games.md)
 - Rolling Thunder 2
 - Snow Bros.: Nick & Tom
 - Street Fighter II Champion Edition
-- Strider
+- Strider Hiryū
 - Super Hang-On
 - Super Street Fighter II
 - Tatsujin (Truxton)

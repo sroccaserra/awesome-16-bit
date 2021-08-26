@@ -285,7 +285,7 @@ See also: [Good Mega Drive Games](./good_mega_drive_games.md)
 - Ms. Pac-Man
 - Outrun
 - Puyo Puyo Tsuu
-- Rainbow Islands
+- Rainbow Islands Extra
 - Rolling Thunder 2
 - Snow Bros.: Nick & Tom
 - Street Fighter II Champion Edition

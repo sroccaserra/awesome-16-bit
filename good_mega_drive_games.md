@@ -39,6 +39,7 @@ See also: [Awesome Mega Drive Games](./README.md#awesome-mega-drive-games)
 - Midnight Resistance
 - NBA Jam
 - The Punisher
+- Puyo Puyo
 - Raiden Trad
 - Sagaia (Darius II)
 - Slap Fight MD

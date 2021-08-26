@@ -303,7 +303,7 @@ See also: [Good Mega Drive Games](./good_mega_drive_games.md)
 - Gley Lancer (Advanced Busterhawk Gley Lancer)
 - Musha Aleste
 - Thunderforce III
-- Thunderforce IV
+- Thunderforce IV (Lightening Force: Quest for the Darkstar)
 - Wings of Wor (Gynoug)
 
 ### Awesome Exclusive Fighting Games

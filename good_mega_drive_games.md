@@ -43,6 +43,7 @@ See also: [Awesome Mega Drive Games](./README.md#awesome-mega-drive-games)
 - Sagaia (Darius II)
 - Slap Fight MD
 - Space Invaders 91
+- Sunset Riders
 - V-V (Grindstormer)
 - Vapor Trail
 

@@ -347,7 +347,6 @@ See also: [Good Mega Drive Games](./good_mega_drive_games.md)
 - Gods
 - Lemmings
 - Sensible Soccer International
-- Universal Soldier (Turrican II)
 
 ## Awesome Mega CD games
 

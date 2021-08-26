@@ -8,12 +8,13 @@ See also: [Awesome Mega Drive Games](./README.md#awesome-mega-drive-games)
 - The Adventures Of Batman & Robin
 - Atomic Runner
 - Batman
+- Blades of Vengeance
 - Demolition Man
 - Ex-Ranza (Ranger X)
 - Granada X
 - Prince of Persia
 - Moonwalker
-- Mystic Defender
+- Mystic Defender (Kujakuō 2: Geneijō)
 - Panorama Cotton
 - Robocop Versus the Terminator
 - Rolling Thunder 3
@@ -26,8 +27,6 @@ See also: [Awesome Mega Drive Games](./README.md#awesome-mega-drive-games)
 
 - Aero Blasters (Air Buster)
 - Atomic Robo-Kid
-- Battletoads
-- Blades of Vengeance
 - Chiki Chiki Boys (Mega Twins)
 - Dangerous Seed
 - Double Dragon
@@ -56,13 +55,12 @@ See also: [Awesome Mega Drive Games](./README.md#awesome-mega-drive-games)
 - Elemental Master
 - Phelios
 - Sol Deace
-- Steel Empire (Empire of Steel)
+- Steel Empire (Empire of Steel, Koutetsu Teikoku)
 - Super Fantasy Zone
 - Twinkle Tale
 - Undead Line
 - Verytex
 - Whip Rush
-- Wings of Wor (Gynoug)
 
 ### Good Fighting Games
 
@@ -73,12 +71,13 @@ See also: [Awesome Mega Drive Games](./README.md#awesome-mega-drive-games)
 - Pirates of Dark Water
 - Spider-Man: Maximum Carnage
 - Splatter House 3
-- Yu Yu Hakusho
+- Yu Yu Hakusho (Yū Yū Hakusho: Makyō Tōitsusen)
 
 ### Good Platform Games
 
 - The Addams Family
 - Aladdin
+- Battletoads
 - Cool Spot
 - Earthworm Jim 2
 - Flink
@@ -93,6 +92,7 @@ See also: [Awesome Mega Drive Games](./README.md#awesome-mega-drive-games)
 - Sparkster
 - Tinhead
 - Vectorman
+- Vectorman 2
 - Wonderboy Monster World IV
 - World of Illusion
 - Wiz 'n' Liz
@@ -111,6 +111,7 @@ See also: [Awesome Mega Drive Games](./README.md#awesome-mega-drive-games)
 - Lotus II (Lotus III)
 - Road Blasters
 - Road Rash 3
+- Super Monaco GP
 - Super Off Road
 - Super Skidmarks
 
@@ -119,6 +120,7 @@ See also: [Awesome Mega Drive Games](./README.md#awesome-mega-drive-games)
 - Crusader of Centy (Soleil)
 - King's Bounty
 - Phantasy Star II
+- Phantasy Star III
 - Sword of Vermillon
 - Warsong (Langrisser)
 - Ys III: Wanderers from Ys
@@ -128,7 +130,7 @@ See also: [Awesome Mega Drive Games](./README.md#awesome-mega-drive-games)
 - Dune - The Battle for Arrakis (Dune II)
 - Star Control
 - Starflight
-- Tyrants (Mega lo Mania)
+- Tyrants (Mega-Lo-Mania)
 
 ### Good Other European Games
 
@@ -136,4 +138,6 @@ See also: [Awesome Mega Drive Games](./README.md#awesome-mega-drive-games)
 - Lemmings 2 Tribes
 - Puggsy
 - Shadow of the Beast
+- Shadow of the Beast II
 - Storm Lord
+- Super Kick Off

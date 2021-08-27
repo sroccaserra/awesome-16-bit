@@ -331,6 +331,7 @@ See also: [Good Mega Drive Games](./good_mega_drive_games.md)
 - Earthworm Jim
 - Mega Man: The Wily Wars (Rockman Mega World)
 - Quackshot
+- Ristar
 - Rocket Knight Adventure
 - Sonic the Hedgehog
 - Sonic the Hedgehog 2
@@ -339,6 +340,7 @@ See also: [Good Mega Drive Games](./good_mega_drive_games.md)
 ### Awesome RPGs
 
 - Phantasy Star IV
+- Shining Force
 - Shining Force II
 
 ### Awesome Other European Games

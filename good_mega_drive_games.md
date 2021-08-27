@@ -87,7 +87,6 @@ See also: [Awesome Mega Drive Games](./README.md#awesome-mega-drive-games)
 - Marvel Land
 - Mr. Nutz
 - Pulseman
-- Ristar
 - Robocod
 - Sonic the Hedgehog 3 & Knuckles
 - Sparkster
@@ -122,6 +121,7 @@ See also: [Awesome Mega Drive Games](./README.md#awesome-mega-drive-games)
 - King's Bounty
 - Phantasy Star II
 - Phantasy Star III
+- Shining in the Darkness
 - Sword of Vermillon
 - Warsong (Langrisser)
 - Ys III: Wanderers from Ys

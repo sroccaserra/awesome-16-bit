@@ -34,6 +34,7 @@ See also: [Awesome Mega Drive Games](./README.md#awesome-mega-drive-games)
 - Aero Blasters ~ Air Buster
 - Atomic Robo-Kid
 - Atomic Runner †
+- Bonanza Bros.
 - Chiki Chiki Boys ~ Mega Twins
 - Dangerous Seed
 - Double Dragon

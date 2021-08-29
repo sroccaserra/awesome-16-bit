@@ -322,7 +322,7 @@ See also: [Good Mega Drive Games](./good_mega_drive_games.md)
 
 - Micro Machines 2
 - Road Rash †
-- Road Rash II †
+- Road Rash II ‡
 
 ### Awesome Pinball Game
 

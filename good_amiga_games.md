@@ -4,10 +4,7 @@ See also: [Awesome Amiga Games](./README.md#awesome-amiga-games)
 
 ### Good Action Games
 
-- Ambermoon (‡)
 - Alien Breed (‡)
-- Darkmere (‡)
-- Dragonstone (‡)
 - Leander (†)
 - Lionheart (‡)
 - Prince of Persia
@@ -15,6 +12,11 @@ See also: [Awesome Amiga Games](./README.md#awesome-amiga-games)
 - Switchblade (†)
 - Switchblade II (†)
 - Turrican 3
+
+### Good Action RPG Games
+
+- Darkmere (‡)
+- Dragonstone (‡)
 
 ### Good Adventure Games
 
@@ -40,6 +42,7 @@ See also: [Awesome Amiga Games](./README.md#awesome-amiga-games)
 
 ### Good Dungeon Crawlers
 
+- Ambermoon (‡)
 - Captive (‡)
 - Ishar
 

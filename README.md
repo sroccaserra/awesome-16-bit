@@ -14,9 +14,9 @@
 See also:
 - https://github.com/sroccaserra/awsome-video-game-music
 
-(†): Best version of a multi platform game.
+†: Best version of a multi platform game.
 
-(‡): Exclusive game.
+‡: Exclusive game.
 
 ## Awesome Amiga games
 
@@ -24,18 +24,18 @@ See also: [Good Amiga Games](./good_amiga_games.md)
 
 ### Awesome Action Games
 
-- Another World (†)
-- First Samurai (†)
-- The Chaos Engine (†)
+- Another World †
+- First Samurai †
+- The Chaos Engine †
 - Flashback
-- Gods (†)
-- Moonstone (‡)
+- Gods †
+- Moonstone ‡
 - Prince of Persia
-- Shadow of the Beast (†)
-- Shadow of the Beast II (†)
-- Shadow of the Beast III (‡)
-- Turrican (†)
-- Turrican II (†)
+- Shadow of the Beast †
+- Shadow of the Beast II †
+- Shadow of the Beast III ‡
+- Turrican †
+- Turrican II †
 
 ### Awesome Adventure Games
 
@@ -56,51 +56,51 @@ See also: [Good Amiga Games](./good_amiga_games.md)
 
 ### Awesome Dungeon Crawlers
 
-- Black Crypt (‡)
+- Black Crypt ‡
 - Dungeon Master
 - Eye of the Beholder
 
 ### Awesome Platform Games
 
 - BC Kid ~ PC Genjin
-- Fire and Ice (‡)
-- Rick Dangerous (†)
-- Rick Dangerous II (†)
+- Fire and Ice ‡
+- Rick Dangerous †
+- Rick Dangerous II †
 
 ### Awesome Racing Games
 
-- Lotus Esprit Turbo Challenge (†)
-- Lotus Turbo Challenge 2 (†)
+- Lotus Esprit Turbo Challenge †
+- Lotus Turbo Challenge 2 †
 - Road Rash
 - Skidmarks
-- Supercars II (‡)
+- Supercars II ‡
 - Vroom
 
 ### Awesome Pinball Games
 
-- Pinball Dreams (†)
-- Pinball Fantasies (†)
+- Pinball Dreams †
+- Pinball Fantasies †
 
 ### Awesome Puzzle / Strategy Games
 
-- Lemmings (†)
+- Lemmings †
 - Lemmings 2
 - The Settlers
 - Syndicate
 
 ### Awesome Shooting Games
 
-- Apidya (‡)
-- Battle Squadron (†)
+- Apidya ‡
+- Battle Squadron †
 - Llamatron
 
 ### Awesome Sport / Versus Games
 
 - Dyna Blaster ~ Bomberman
-- IK+ (†)
-- Kick-off 2 (†)
+- IK+ †
+- Kick-off 2 †
 - Sensible World of Soccer
-- Speedball 2: Brutal Deluxe (†)
+- Speedball 2: Brutal Deluxe †
 - Worms
 
 ## Awesome Arcade games
@@ -265,18 +265,18 @@ See also: [Good Mega Drive Games](./good_mega_drive_games.md)
 
 ### Awesome Action Games
 
-- Alien Soldier (‡)
-- Alisia Dragoon (‡)
-- Castlevania Bloodlines ~ Vampire Killer (‡)
+- Alien Soldier ‡
+- Alisia Dragoon ‡
+- Castlevania Bloodlines ~ Vampire Killer ‡
 - Chaos Engine
-- Contra: The Hard Corps (‡)
-- Cyber Police ESWAT (‡)
-- El. Viento (‡)
-- Gunstar Heroes (‡)
-- Mega Turrican (†)
-- Shadow Dancer (‡)
-- The Super Shinobi ~ The Revenge of Shinobi (‡)
-- The Super Shinobi II ~ Shinobi III (‡)
+- Contra: The Hard Corps ‡
+- Cyber Police ESWAT ‡
+- El. Viento ‡
+- Gunstar Heroes ‡
+- Mega Turrican †
+- Shadow Dancer ‡
+- The Super Shinobi ~ The Revenge of Shinobi ‡
+- The Super Shinobi II ~ Shinobi III ‡
 
 ### Awesome Arcade Ports
 
@@ -313,44 +313,44 @@ See also: [Good Mega Drive Games](./good_mega_drive_games.md)
 
 ### Awesome Exclusive Fighting Games
 
-- Bare Knuckles ~ Streets of Rage (‡)
-- Bare Knuckles II ~ Streets of Rage II (‡)
-- Splatter House Part 2 (‡)
-- Teenage Mutant Ninja Turtles: Hyper Stone Heist (‡)
+- Bare Knuckles ~ Streets of Rage ‡
+- Bare Knuckles II ~ Streets of Rage II ‡
+- Splatter House Part 2 ‡
+- Teenage Mutant Ninja Turtles: Hyper Stone Heist ‡
 
 ### Awesome Racing Games
 
 - Micro Machines 2
-- Road Rash (†)
-- Road Rash II (†)
+- Road Rash †
+- Road Rash II †
 
 ### Awesome Pinball Game
 
-- Devil Crash MD ~ Dragon's Fury (†)
+- Devil Crash MD ~ Dragon's Fury †
 
 ### Awesome Platform Games
 
-- Castle of Illusion (‡)
-- Dynamite Headdy (‡)
-- Earthworm Jim (†)
+- Castle of Illusion ‡
+- Dynamite Headdy ‡
+- Earthworm Jim †
 - Mega Man: The Wily Wars ~ Rockman Mega World
-- Quackshot (‡)
-- Ristar (‡)
-- Rocket Knight Adventure (‡)
-- Sonic the Hedgehog (‡)
-- Sonic the Hedgehog 2 (‡)
-- Wonderboy in Monster World (†)
+- Quackshot ‡
+- Ristar ‡
+- Rocket Knight Adventure ‡
+- Sonic the Hedgehog ‡
+- Sonic the Hedgehog 2 ‡
+- Wonderboy in Monster World †
 
 ### Awesome RPGs
 
-- Phantasy Star IV (‡)
-- Shining Force (‡)
-- Shining Force II (‡)
+- Phantasy Star IV ‡
+- Shining Force ‡
+- Shining Force II ‡
 
 ### Awesome Other European Games
 
 - Another World ~ Out of this World
-- Flashback (†)
+- Flashback †
 - Gods
 - Lemmings
 - Sensible Soccer International
@@ -408,47 +408,47 @@ See also: [Good Mega Drive Games](./good_mega_drive_games.md)
 
 ## Awesome PC Engine games
 
-- **Adventure Island** ~ Wonder Boy III: The Dragon's Trap (†)
+- **Adventure Island** ~ Wonder Boy III: The Dragon's Trap †
 - Aero Blasters
-- Air Zonk (‡)
+- Air Zonk ‡
 - Alien Crush
 - **Bikkuriman World** ~ Wonder Boy in Monster Land
-- Coryoon - Child of Dragon (‡)
-- Cyber Core (‡)
-- Dead Moon (‡)
+- Coryoon - Child of Dragon ‡
+- Cyber Core ‡
+- Dead Moon ‡
 - Detana!! TwinBee
 - **Devil Crash - Naxat Pinball**
 - Don Doko Don!
-- Download (‡)
+- Download ‡
 - Dragon Saber
 - Dragon Spirit
-- Final Match Tennis (‡)
-- **Final Soldier** (‡)
-- **Gunhed** ~ Blazing Lazers (‡)
+- Final Match Tennis ‡
+- **Final Soldier** ‡
+- **Gunhed** ~ Blazing Lazers ‡
 - **Gradius**
-- **Hana Taaka Daka!** ~ Super Long Nosed Goblin (‡)
+- **Hana Taaka Daka!** ~ Super Long Nosed Goblin ‡
 - Image Fight
 - Jigoku Meguri
 - Kyuukyoku Tiger ~ Twin Cobra
-- **Magical Chase** (‡)
-- Neutopia (‡)
-- Neutopia II (‡)
+- **Magical Chase** ‡
+- Neutopia ‡
+- Neutopia II ‡
 - The New Zealand Story
-- Ordyne (‡)
-- Override (‡)
-- **Parasol Stars - The Story of Bubble Bobble 3** (†)
+- Ordyne ‡
+- Override ‡
+- **Parasol Stars - The Story of Bubble Bobble 3** †
 - **Parodius Da! - Shinwa kara Owarai e**
-- **PC Denjin - Punkic Cyborgs** (‡)
-- **PC Genjin - Pithecanthropus Computerurus** (†)
-- **PC Genjin 2 - Pithecanthropus Computerurus** (‡)
-- PC Genjin 3 - Pithecanthropus Computerurus (‡)
+- **PC Denjin - Punkic Cyborgs** ‡
+- **PC Genjin - Pithecanthropus Computerurus** †
+- **PC Genjin 2 - Pithecanthropus Computerurus** ‡
+- PC Genjin 3 - Pithecanthropus Computerurus ‡
 - **R-Type**
 - Rabio Lepus Special
 - Raiden
 - **Saigo no Nindou** ~ Ninja Spirit
 - **Salamander**
 - **Shinobi**
-- **Soldier Blade** (‡)
+- **Soldier Blade** ‡
 - **Splatterhouse**
 - **Street Fighter II' - Champion Edition**
 - **Super Star Soldier**
@@ -458,47 +458,47 @@ See also: [Good Mega Drive Games](./good_mega_drive_games.md)
 
 ## Awesome PC Engine CD games
 
-- **Akumajou Dracula X - Chi no Rondo** (‡)
+- **Akumajou Dracula X - Chi no Rondo** ‡
 - Bonanza Brothers
 - Cotton - Fantastic Night Dreams
-- Download II (‡)
+- Download II ‡
 - Dragon Slayer - The Legend of Heroes
 - **Dynastic Hero**
-- **Gate of Thunder** (‡)
-- Ginga Fukei Densetsu Sapphire (‡)
+- **Gate of Thunder** ‡
+- Ginga Fukei Densetsu Sapphire ‡
 - Gradius II - Gofer no Yabou
 - Hellfire S
-- Kaze Kiri Ninja Action (‡)
+- Kaze Kiri Ninja Action ‡
 - L-Dis
 - Loom
-- **Nexzr** (‡)
+- **Nexzr** ‡
 - R-Type Complete
 - **Rainbow Islands**
-- Rayxanber II (‡)
-- Rayxanber III (‡)
-- **Seirei Senshi Spriggan** (‡)
+- Rayxanber II ‡
+- Rayxanber III ‡
+- **Seirei Senshi Spriggan** ‡
 - Shadow of the Beast
-- **Star Parodier** (‡)
-- Summer Carnival '93 - Nexzr Special (‡)
+- **Star Parodier** ‡
+- Summer Carnival '93 - Nexzr Special ‡
 - Valis III
-- **Winds of Thunder** ~ Lords of Thunder (†)
-- **Ys Book I & II** (†)
+- **Winds of Thunder** ~ Lords of Thunder †
+- **Ys Book I & II** †
 
 ## Awesome Super Famicom games
 
-- Actraiser (‡)
-- Actraiser 2 (‡)
-- The Addams Family (†)
-- The Adventures of Batman & Robin (‡)
+- Actraiser ‡
+- Actraiser 2 ‡
+- The Addams Family †
+- The Adventures of Batman & Robin ‡
 - Aero the Acro-Bat 2
-- **Akumajo Dracula** ~ Super Castlevania IV (‡)
-- Akumajo Dracula XX ~ Castlevania: Dracula X (‡)
-- Aladdin (‡)
+- **Akumajo Dracula** ~ Super Castlevania IV ‡
+- Akumajo Dracula XX ~ Castlevania: Dracula X ‡
+- Aladdin ‡
 - Alien 3
 - **Area 88** ~ U.N. Squadron
-- **Axelay** (‡)
-- **Batman Returns** (‡)
-- Biker Mice from Mars (‡)
+- **Axelay** ‡
+- **Batman Returns** ‡
+- Biker Mice from Mars ‡
 - BioMetal
 - Blackthorne
 - BlaZeon: The Bio-Cyborg Challenge
@@ -508,78 +508,78 @@ See also: [Good Mega Drive Games](./good_mega_drive_games.md)
 - Cacoma Knight in Bizyland
 - Captain Commando
 - The Chaos Engine
-- **Chō Makaimura** ~ Super Ghouls'n Ghosts (‡)
-- **Chrono Trigger** (‡)
+- **Chō Makaimura** ~ Super Ghouls'n Ghosts ‡
+- **Chrono Trigger** ‡
 - The Combatribes
-- **Contra Spirit** ~ Contra III (‡)
+- **Contra Spirit** ~ Contra III ‡
 - Cosmo Gang the Video
-- Cybernator (‡)
+- Cybernator ‡
 - Death and Return of Superman
-- Demon's Crest (‡)
-- **Donkey Kong Country** ~ Super Donkey Kong (‡)
-- **Donkey Kong Country 2** ~ Super Donkey Kong 2 (‡)
-- DoReMi Fantasy (‡)
+- Demon's Crest ‡
+- **Donkey Kong Country** ~ Super Donkey Kong ‡
+- **Donkey Kong Country 2** ~ Super Donkey Kong 2 ‡
+- DoReMi Fantasy ‡
 - Dragon Quest V
 - Dragon Quest VI
 - Dragon View
 - Earth Defence Force
 - Earthworm Jim
-- **Earthbound** (‡)
-- **F-Zero** (‡)
-- **Final Fantasy IV** (†)
-- **Final Fantasy V** (†)
-- **Final Fantasy VI** (†)
+- **Earthbound** ‡
+- **F-Zero** ‡
+- **Final Fantasy IV** †
+- **Final Fantasy V** †
+- **Final Fantasy VI** †
 - Final Fight
 - **Final Fight Guy**
-- Final Fight 2 (‡)
-- **Final Fight Tough** ~ Final Fight 3 (‡)
+- Final Fight 2 ‡
+- **Final Fight Tough** ~ Final Fight 3 ‡
 - First Samurai
-- Front Mission: Gun Hazard (‡)
-- Ghost Chaser Densei ~ Denjin Makai (‡)
-- Ghost Sweeper Mikami Joreishi wa Nice Body (‡)
+- Front Mission: Gun Hazard ‡
+- Ghost Chaser Densei ~ Denjin Makai ‡
+- Ghost Sweeper Mikami Joreishi wa Nice Body ‡
 - Gods
 - **Gokujou Parodius**
 - **Gradius III**
-- The Great Battle V (‡)
+- The Great Battle V ‡
 - Gunforce
-- Hagane (‡)
-- Hamelin no Violin Hiki (‡)
+- Hagane ‡
+- Hamelin no Violin Hiki ‡
 - Hook
 - The Ignition Factor
-- Illusion of Gaia ~ Illusion of Time (‡)
+- Illusion of Gaia ~ Illusion of Time ‡
 - Incantation
 - Iron Commando: Koutetsu no Senshi
 - James Pond II - Robocod
-- **Jikkyou Oshaberi Parodius** (‡)
+- **Jikkyou Oshaberi Parodius** ‡
 - Joe & Mac
 - Kendo Rage
 - KiKi KaiKai ~ Pocky & Rocky
 - **The King of Dragons**
-- **Kirby's Dream Land 3** (‡)
-- **Kirby Super Star** (†)
+- **Kirby's Dream Land 3** ‡
+- **Kirby Super Star** †
 - **Knights of the Round**
 - Legend
 - Legend of the Mystical Ninja
-- **The Legend of Zelda: A Link to the Past** (‡)
+- **The Legend of Zelda: A Link to the Past** ‡
 - Lucky Luke
 - Lufia II
 - Magical Drop 2
-- The Magical Quest Starring Mickey Mouse (‡)
-- The Magical Quest 2 Starring Mickey and Minnie ~ The Great Circus Mystery starring Mickey and Minnie Mouse (†)
+- The Magical Quest Starring Mickey Mouse ‡
+- The Magical Quest 2 Starring Mickey and Minnie ~ The Great Circus Mystery starring Mickey and Minnie Mouse †
 - The Magical Quest 3 Starring Mickey and Donald ~ Mickey to Donald: Magical Adventure 3
 - Magic Sword
 - Magical Pop'n
 - Majyuuou
-- Märchen Adventure Cotton 100% (‡)
+- Märchen Adventure Cotton 100% ‡
 - Maui Mallard in Cold Shadow
 - Mega Man & Bass ~ Rockman & Forte
 - Mega Man 7 ~ Rockman 7
-- **Mega Man X** ~ Rockman X (†)
+- **Mega Man X** ~ Rockman X †
 - Metal Warriors
 - Mortal Kombat II
 - Mr. Nutz
-- Nightmare Busters (‡)
-- **The Ninja Warriors Again** (‡)
+- Nightmare Busters ‡
+- **The Ninja Warriors Again** ‡
 - Nosferatu
 - Ogre Battle: March of the Black Queen
 - Operation Logic Bomb
@@ -591,66 +591,66 @@ See also: [Good Mega Drive Games](./good_mega_drive_games.md)
 - Pirates of Darkwater
 - Pop'n TwinBee
 - Popful Mail
-- **Prince of Persia** (†)
+- **Prince of Persia** †
 - Puzzle Bobble
-- **R-Type III: The Third Lightning** (‡)
+- **R-Type III: The Third Lightning** ‡
 - Raiden Trad
 - Realm
-- Rendering Ranger R2 (‡)
-- Rock'n'Roll Racing (†)
-- Run Saber (‡)
-- Rushing Beat ~ Rival Turf (‡)
-- **Rushing Beat Ran** ~ Brawl Brothers (‡)
-- **Rushing Beat Shura** ~ The Peace Keepers (‡)
-- **Secret of Mana** ~ Seiken densetsu 2 (‡)
+- Rendering Ranger R2 ‡
+- Rock'n'Roll Racing †
+- Run Saber ‡
+- Rushing Beat ~ Rival Turf ‡
+- **Rushing Beat Ran** ~ Brawl Brothers ‡
+- **Rushing Beat Shura** ~ The Peace Keepers ‡
+- **Secret of Mana** ~ Seiken densetsu 2 ‡
 - The Shadow
-- **Shin Kidō Senki Gundam Wing: Endless Duel** (‡)
-- Skyblazer (‡)
+- **Shin Kidō Senki Gundam Wing: Endless Duel** ‡
+- Skyblazer ‡
 - Soccer Kid
-- Sonic Blastman II (‡)
+- Sonic Blastman II ‡
 - Sonic Wings ~ Aero Fighters
 - Soul Blazer
-- Sparkster (†)
+- Sparkster †
 - Spider-Man: Maximum Carnage
-- **Star Fox** ~ Starwing (‡)
+- **Star Fox** ~ Starwing ‡
 - Street Fighter II: The World Warrior
 - **Street Fighter II' Turbo: Hyper Fighting**
 - Street Fighter Zero 2
 - Street Racer
 - Strike Gunner STG
 - Sunset Riders
-- **Super Aleste** ~ Space Megaforce (‡)
-- **Super Dimension Fortress Macross: Scrambled Valkyrie** (‡)
+- **Super Aleste** ~ Space Megaforce ‡
+- **Super Dimension Fortress Macross: Scrambled Valkyrie** ‡
 - Super Bomberman 3
 - Super Bonk
 - Super Buster Bros
 - Super Double Dragon
-- **Super Mario All Stars** (‡)
-- **Super Mario Kart** (‡)
-- **Super Mario RPG** (‡)
-- **Super Mario World** (‡)
-- **Super Mario World 2: Yoshi’s Island** (‡)
-- **Super Metroid** (‡)
+- **Super Mario All Stars** ‡
+- **Super Mario Kart** ‡
+- **Super Mario RPG** ‡
+- **Super Mario World** ‡
+- **Super Mario World 2: Yoshi’s Island** ‡
+- **Super Metroid** ‡
 - Super Ninja Kun
-- Super Punchout (‡)
+- Super Punchout ‡
 - **Super Puyo Puyo**
 - **Super R-Type**
 - Super Street Fighter II: The New Challengers
-- Super Soccer (‡)
-- Super Tennis (‡)
+- Super Soccer ‡
+- Super Tennis ‡
 - Super SWIV
-- Super Turrican (‡)
-- Super Turrican 2 (‡)
-- **Teenage Mutant Ninja Turtles IV - Turtles in Time** (†)
+- Super Turrican ‡
+- Super Turrican 2 ‡
+- **Teenage Mutant Ninja Turtles IV - Turtles in Time** †
 - Terranigma
 - Thunder Spirits
-- **Top Gear** (‡)
-- **Top Gear 2** (†)
+- **Top Gear** ‡
+- **Top Gear 2** †
 - Troddlers
-- The Twisted Tales of Spike McFang (‡)
+- The Twisted Tales of Spike McFang ‡
 - Umihara Kawase
 - **Undercover Cops**
-- **Wild Guns** (‡)
+- **Wild Guns** ‡
 - X-Men: Mutant Apocalypse
 - Ys III: Wanderers From Ys
-- Zombies Ate my Neighbors (†)
+- Zombies Ate my Neighbors †

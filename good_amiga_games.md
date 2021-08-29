@@ -22,9 +22,11 @@ See also: [Awesome Amiga Games](./README.md#awesome-amiga-games)
 ### Good Adventure Games
 
 - B.A.T. II
+- Beneath a Steel Sky
 - Cadaver †
 - Croisière pour un cadavre ~ Cruise for a Corpse
 - Dreamweb
+- Flight of the Amazon Queen
 - Le Manoir de Mortevielle
 - Maupiti Island †
 - Monkey Island 2: LeChuck's Revenge

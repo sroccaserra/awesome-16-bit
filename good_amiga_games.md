@@ -31,7 +31,7 @@ See also: [Awesome Amiga Games](./README.md#awesome-amiga-games)
 - Maupiti Island †
 - Monkey Island 2: LeChuck's Revenge
 - Operation Stealth
-- Les Voyageurs du Temps : La Menace (Future Wars)
+- Les Voyageurs du Temps : La Menace ~ Future Wars
 - Waxworks
 
 ### Good Arcade Ports

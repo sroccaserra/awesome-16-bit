@@ -16,6 +16,7 @@ See also: [Awesome Amiga Games](./README.md#awesome-amiga-games)
 
 ### Good Action RPG Games
 
+- Cadaver †
 - Darkmere ‡
 - Dragonstone ‡
 
@@ -23,7 +24,6 @@ See also: [Awesome Amiga Games](./README.md#awesome-amiga-games)
 
 - B.A.T. II
 - Beneath a Steel Sky
-- Cadaver †
 - Croisière pour un cadavre ~ Cruise for a Corpse
 - Dreamweb
 - Flight of the Amazon Queen

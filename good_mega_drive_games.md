@@ -12,6 +12,7 @@ See also: [Awesome Mega Drive Games](./README.md#awesome-mega-drive-games)
 - Desert Strike †
 - Ex-Ranza ~ Ranger X ‡
 - Granada X ‡
+- Jungle Strike †
 - Prince of Persia
 - Moonwalker ‡
 - Mystic Defender ~ Kujakuō 2: Geneijō ‡
@@ -119,6 +120,7 @@ See also: [Awesome Mega Drive Games](./README.md#awesome-mega-drive-games)
 - Lotus II ~ Lotus III
 - Road Blasters
 - Road Rash 3 ‡
+- Skitchin'
 - Super Monaco GP ‡
 - Super Off Road
 - Super Skidmarks

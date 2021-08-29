@@ -27,6 +27,7 @@ See also: [Awesome Amiga Games](./README.md#awesome-amiga-games)
 - Dreamweb
 - Le Manoir de Mortevielle
 - Maupiti Island †
+- Monkey Island 2: LeChuck's Revenge
 - Operation Stealth
 - Les Voyageurs du Temps : La Menace (Future Wars)
 - Waxworks

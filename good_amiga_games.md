@@ -2,42 +2,28 @@
 
 See also: [Awesome Amiga Games](./README.md#awesome-amiga-games)
 
-### Good Shooting Games
-
-- Agony
-- Blood Money
-- Disposable Hero
-- Gemini Wing
-- Hybris
-- Katakis
-- Lethal Xcess: Wings of Death II
-- Project X
-- Wings of Death
-- Xenon 2
-- Z-Out
-
 ### Good Action Games
 
-- Ambermoon
-- Alien Breed
-- Darkmere
-- Dragonstone
-- Leander
-- Lionheart
+- Ambermoon (‡)
+- Alien Breed (‡)
+- Darkmere (‡)
+- Dragonstone (‡)
+- Leander (†)
+- Lionheart (‡)
 - Prince of Persia
-- Ruff 'n' Tumble
-- Switchblade
-- Switchblade II
+- Ruff 'n' Tumble (‡)
+- Switchblade (†)
+- Switchblade II (†)
 - Turrican 3
 
 ### Good Adventure Games
 
 - B.A.T. II
-- Cadaver
-- Croisière pour un cadavre (Cruise for a Corpse)
+- Cadaver (†)
+- Croisière pour un cadavre ~ Cruise for a Corpse
 - Dreamweb
 - Le Manoir de Mortevielle
-- Maupiti Island
+- Maupiti Island (†)
 - Operation Stealth
 - Les Voyageurs du Temps : La Menace (Future Wars)
 - Waxworks
@@ -45,6 +31,7 @@ See also: [Awesome Amiga Games](./README.md#awesome-amiga-games)
 ### Good Arcade Ports
 
 - Bubble Bobble
+- Gemini Wing
 - Liquid Kids
 - The New Zealand Story
 - R-Type II
@@ -53,31 +40,31 @@ See also: [Awesome Amiga Games](./README.md#awesome-amiga-games)
 
 ### Good Dungeon Crawlers
 
-- Captive
+- Captive (‡)
 - Ishar
 
 ### Good Platform Games
 
-- Arabian Nights
+- Arabian Nights (‡)
 - Bubble and Squeak
 - Great Giana Sisters
 - Harlequin
 - Lollypop
-- Magic Pockets
-- Odyssey
+- Magic Pockets (‡)
+- Odyssey (‡)
 - Soccer Kid
 - Risky Woods
-- Robocod - James Pond 2
-- Superfrog
-- Traps'n'Treasures
-- Yo! Joe!
+- Robocod - James Pond 2 (†)
+- Superfrog (‡)
+- Traps'n'Treasures (‡)
+- Yo! Joe! (‡)
 
 ### Good Puzzle / Action Games
 
-- Benefactor
-- Flood
-- Globdule
-- Naughty Ones
+- Benefactor (‡)
+- Flood (†)
+- Globdule (‡)
+- Naughty Ones (‡)
 - Parasol Stars
 - Putty
 - Snow Bros.: Nick & Tom
@@ -86,17 +73,30 @@ See also: [Awesome Amiga Games](./README.md#awesome-amiga-games)
 ### Good Racing Games
 
 - Jaguar XJ220
-- Lotus III
-- Nitro
-- Overdrive
+- Lotus III (†)
+- Nitro (‡)
+- Overdrive (‡)
 - Top Gear 2
+
+### Good Shooting Games
+
+- Agony (‡)
+- Blood Money (†)
+- Disposable Hero (‡)
+- Hybris (‡)
+- Katakis
+- Lethal Xcess: Wings of Death II
+- Project X (‡)
+- Wings of Death
+- Xenon 2 (†)
+- Z-Out (†)
 
 ### Good Sport / Versus Games
 
-- Mikro Mortal Tennis
-- Ski or Die
+- Mikro Mortal Tennis (‡)
+- Ski or Die (†)
 
 ### Good Strategy Games
 
 - Defender of the Crown
-- Mega Lo Mania
+- Mega-Lo-Mania

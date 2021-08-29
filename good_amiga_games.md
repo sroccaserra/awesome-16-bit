@@ -19,6 +19,7 @@ See also: [Awesome Amiga Games](./README.md#awesome-amiga-games)
 - Cadaver †
 - Darkmere ‡
 - Dragonstone ‡
+- The Immortal
 
 ### Good Adventure Games
 

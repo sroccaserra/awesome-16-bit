@@ -6,10 +6,10 @@ See also: [Awesome Mega Drive Games](./README.md#awesome-mega-drive-games)
 ### Good Action Games
 
 - The Adventures Of Batman & Robin
-- Atomic Runner
 - Batman ‡
 - Blades of Vengeance ‡
 - Demolition Man †
+- Desert Strike †
 - Ex-Ranza ~ Ranger X ‡
 - Granada X ‡
 - Prince of Persia
@@ -23,10 +23,17 @@ See also: [Awesome Mega Drive Games](./README.md#awesome-mega-drive-games)
 - Valis III †
 - X-Men 2: Clone Wars
 
+### Good Action RPG Games
+
+- The Immortal
+- Land Stalker ‡
+- Light Crusader ‡
+
 ### Good Arcade Ports
 
 - Aero Blasters ~ Air Buster
 - Atomic Robo-Kid
+- Atomic Runner †
 - Chiki Chiki Boys ~ Mega Twins
 - Dangerous Seed
 - Double Dragon

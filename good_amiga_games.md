@@ -5,6 +5,7 @@ See also: [Awesome Amiga Games](./README.md#awesome-amiga-games)
 ### Good Action Games
 
 - Alien Breed (‡)
+- Alien Breed II (‡)
 - Leander (†)
 - Lionheart (‡)
 - Prince of Persia

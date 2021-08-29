@@ -38,6 +38,7 @@ See also: [Awesome Amiga Games](./README.md#awesome-amiga-games)
 - Liquid Kids
 - The New Zealand Story
 - R-Type II
+- Snow Bros.: Nick & Tom
 - Toki
 - Wonder Boy in Monster Land
 
@@ -71,7 +72,6 @@ See also: [Awesome Amiga Games](./README.md#awesome-amiga-games)
 - Naughty Ones (‡)
 - Parasol Stars
 - Putty
-- Snow Bros.: Nick & Tom
 - Ugh!
 
 ### Good Racing Games

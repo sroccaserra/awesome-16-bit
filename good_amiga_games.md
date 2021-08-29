@@ -76,10 +76,10 @@ See also: [Awesome Amiga Games](./README.md#awesome-amiga-games)
 
 ### Good Racing Games
 
-- Jaguar XJ220
+- Jaguar XJ220 (†)
 - Lotus III (†)
-- Nitro (‡)
-- Overdrive (‡)
+- Nitro (†)
+- Overdrive (†)
 - Top Gear 2
 
 ### Good Shooting Games

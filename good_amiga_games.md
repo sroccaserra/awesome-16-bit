@@ -54,7 +54,7 @@ See also: [Awesome Amiga Games](./README.md#awesome-amiga-games)
 - Great Giana Sisters
 - Harlequin
 - Lollypop
-- Magic Pockets (‡)
+- Magic Pockets (†)
 - Odyssey (‡)
 - Soccer Kid
 - Risky Woods

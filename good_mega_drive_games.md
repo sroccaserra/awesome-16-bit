@@ -13,6 +13,7 @@ See also: [Awesome Mega Drive Games](./README.md#awesome-mega-drive-games)
 - Ex-Ranza ~ Ranger X ‡
 - Granada X ‡
 - Jungle Strike †
+- The Legend of Galahad ~ Leander
 - Prince of Persia
 - Moonwalker ‡
 - Mystic Defender ~ Kujakuō 2: Geneijō ‡
@@ -76,6 +77,8 @@ See also: [Awesome Mega Drive Games](./README.md#awesome-mega-drive-games)
 
 - Bare Knuckles III ~ Streets of Rage III ‡
 - Battletoads & Double Dragon †
+- Golden Axe II ‡
+- Golden Axe III ‡
 - Mazin Saga/Mazin Wars ‡
 - Mystical Fighter ‡
 - Pirates of Dark Water

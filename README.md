@@ -1,15 +1,15 @@
-# Awesome 16 bit games
+# Awesome 16 bit Games
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-- [Awesome Amiga games](#awesome-amiga-games)
-- [Awesome Arcade games](#awesome-arcade-games)
-- [Awesome Mega Drive games](#awesome-mega-drive-games)
-- [Awesome Mega CD games](#awesome-mega-cd-games)
-- [Awesome Neo Geo games](#awesome-neo-geo-games)
-- [Awesome PC Engine games](#awesome-pc-engine-games)
-- [Awesome PC Engine CD games](#awesome-pc-engine-cd-games)
-- [Awesome Super Famicom games](#awesome-super-famicom-games)
+- [Awesome Amiga Games](#awesome-amiga-games)
+- [Awesome Arcade Games](#awesome-arcade-games)
+- [Awesome Mega Drive Games](#awesome-mega-drive-games)
+- [Awesome Mega CD Games](#awesome-mega-cd-games)
+- [Awesome Neo Geo Games](#awesome-neo-geo-games)
+- [Awesome PC Engine Games](#awesome-pc-engine-games)
+- [Awesome PC Engine CD Games](#awesome-pc-engine-cd-games)
+- [Awesome Super Famicom Games](#awesome-super-famicom-games)
 
 See also:
 - [Awesome Video Game Music][avgm]
@@ -22,7 +22,7 @@ See also:
 
 ‡: Exclusive game.
 
-## Awesome Amiga games
+## Awesome Amiga Games
 
 See also: [Good Amiga Games](./good_amiga_games.md)
 
@@ -107,7 +107,7 @@ See also: [Good Amiga Games](./good_amiga_games.md)
 - Speedball 2: Brutal Deluxe †
 - Worms
 
-## Awesome Arcade games
+## Awesome Arcade Games
 
 Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco Mega System 32, and CPS-3 games).
 
@@ -263,7 +263,7 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 - Zero Team
 - Zero Wing
 
-## Awesome Mega Drive games
+## Awesome Mega Drive Games
 
 See also: [Good Mega Drive Games](./good_mega_drive_games.md)
 
@@ -359,7 +359,7 @@ See also: [Good Mega Drive Games](./good_mega_drive_games.md)
 - Lemmings
 - Sensible Soccer International
 
-## Awesome Mega CD games
+## Awesome Mega CD Games
 
 - **Bari-Arm**
 - Dennin Aleste ~ Robo Aleste
@@ -376,7 +376,7 @@ See also: [Good Mega Drive Games](./good_mega_drive_games.md)
 - Sonic the Hedgehog CD
 - Vay
 
-## Awesome Neo Geo games
+## Awesome Neo Geo Games
 
 - Aggressors of Dark Kombat
 - Alpha Mission II ~ ASO II
@@ -410,7 +410,7 @@ See also: [Good Mega Drive Games](./good_mega_drive_games.md)
 - **Viewpoint**
 - Windjammers
 
-## Awesome PC Engine games
+## Awesome PC Engine Games
 
 - **Adventure Island** ~ Wonder Boy III: The Dragon's Trap †
 - Aero Blasters
@@ -460,7 +460,7 @@ See also: [Good Mega Drive Games](./good_mega_drive_games.md)
 - Vigilante
 - Violent Soldier
 
-## Awesome PC Engine CD games
+## Awesome PC Engine CD Games
 
 - **Akumajou Dracula X - Chi no Rondo** ‡
 - Bonanza Brothers
@@ -488,7 +488,7 @@ See also: [Good Mega Drive Games](./good_mega_drive_games.md)
 - **Winds of Thunder** ~ Lords of Thunder †
 - **Ys Book I & II** †
 
-## Awesome Super Famicom games
+## Awesome Super Famicom Games
 
 - Actraiser ‡
 - Actraiser 2 ‡

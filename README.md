@@ -396,6 +396,7 @@ See also: [Good Mega Drive Games](./good_mega_drive_games.md)
 - **Metal Slug X - Super Vehicle-001**
 - **Metal Slug 3**
 - Mutation Nation
+- Neo Turf Masters
 - Ninja Combat
 - Ninja Commando
 - Ninja Masters

@@ -221,6 +221,7 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 - Saint Dragon
 - **Salamander**
 - Shinobi
+- Sly Spy
 - Snow Bros.: Nick & Tom
 - Spider-Man: The Video Game
 - Splatter House

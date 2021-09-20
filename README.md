@@ -379,37 +379,38 @@ See also: [Good Mega Drive Games](./good_mega_drive_games.md)
 
 ## Awesome Neo Geo Games
 
-- Aggressors of Dark Kombat
-- Alpha Mission II ~ ASO II
-- Andro Dunos
-- Bang Bang Busters
-- Blazing Star
-- Breakers
+See also: [Good Neo Geo Games](./good_neo_geo_games.md)
+
+### Awesome Fighting Games
+
 - Breakers Revenge
-- Burning Fight
-- Cyber-Lip
-- **Garou - Mark of the Wolves**
-- **The King of Fighters '98 - Dream Match Never Ends**
-- **Last Resort**
-- Magical Drop II
-- Magician Lord
-- **Metal Slug - Super Vehicle-001**
-- **Metal Slug X - Super Vehicle-001**
-- **Metal Slug 3**
-- Mutation Nation
-- Neo Turf Masters
-- Ninja Combat
-- Ninja Commando
-- Ninja Masters
-- **Pulstar**
-- Robo Army
-- **Samurai Showdown II** ~ Shin Samurai Spirits Haōmaru Jigokuhen
+- Garou - Mark of the Wolves
+- The King of Fighters '98 - Dream Match Never Ends
+- Samurai Showdown II ~ Shin Samurai Spirits Haōmaru Jigokuhen
+
+### Awesome Beat Them All
+
 - Sengoku 3
+
+### Awesome Run'n'Guns
+
+- Metal Slug - Super Vehicle-001
+- Metal Slug 2
+- Metal Slug X - Super Vehicle-001
+- Metal Slug 3
 - Shock Troopers
-- Spin Master
-- **Strikers 1945 Plus**
-- Top Hunter: Roddy & Cathy
-- **Viewpoint**
+
+### Awesome Shmups
+
+- Blazing Star
+- Last Resort
+- Pulstar
+- Strikers 1945 Plus
+- Viewpoint
+
+### Awesome Sport Games
+
+- Neo Turf Masters
 - Windjammers
 
 ## Awesome PC Engine Games

@@ -222,6 +222,7 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 - Rolling Thunder
 - Saint Dragon
 - **Salamander**
+- Shadow Dancer
 - **Shinobi**
 - Sly Spy
 - Snow Bros.: Nick & Tom

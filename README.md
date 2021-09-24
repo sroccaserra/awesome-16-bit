@@ -130,7 +130,7 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 - Bishoujo Senshi Sailor Moon
 - Blade Master
 - Boogie Wings
-- Cadillacs and Dinosaurs
+- **Cadillacs and Dinosaurs**
 - Captain America and the Avengers
 - Captain Commando
 - Carrier Airwing
@@ -555,6 +555,7 @@ See also: [Good Neo Geo Games](./good_neo_geo_games.md)
 - The Ignition Factor
 - Illusion of Gaia ~ Illusion of Time ‡
 - Incantation
+- International Superstar Soccer Deluxe ~ Jikkyou World Soccer 2: Fighting Eleven
 - Iron Commando: Koutetsu no Senshi
 - James Pond II - Robocod
 - **Jikkyou Oshaberi Parodius** ‡

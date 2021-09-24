@@ -231,7 +231,7 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 - **Street Fighter II Dash** ~ Street Fighter II': Champion Edition
 - Street Fighter II Dash Turbo ~ Street Fighter II' Turbo: Hyper Fighting
 - **Street Fighter III: 3rd Strike**
-- Street Fighter Zero 3 ~ Street Fighter Alpha 3
+- **Street Fighter Zero 3** ~ Street Fighter Alpha 3
 - **Strider Hiryū**
 - **Strikers 1945 II**
 - Sunset Riders

@@ -12,11 +12,14 @@
 - [Awesome Super Famicom Games](#awesome-super-famicom-games)
 
 See also:
-- [Awesome Video Game Music][avgm]
-- [Awesome Game Boy Advance Games][agba]
 
-[avgm]: https://github.com/sroccaserra/awsome-video-game-music
+- [Awesome NES Games][anes]
+- [Awesome Game Boy Advance Games][agba]
+- [Awesome Video Game Music][avgm]
+
+[anes]: https://gist.github.com/sroccaserra/0acb0a7224e0a553f703a26bb906fb10
 [agba]: https://gist.github.com/sroccaserra/07e0ca5893cdebbdb2f44bcd4982d882
+[avgm]: https://github.com/sroccaserra/awsome-video-game-music
 
 †: Best version of a multi platform game.
 

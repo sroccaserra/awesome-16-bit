@@ -6,6 +6,7 @@ See also: [Awesome Mega Drive Games](./README.md#awesome-mega-drive-games)
 ### Good Action Games
 
 - The Adventures Of Batman & Robin
+- Alien 3
 - Batman ‡
 - Blades of Vengeance ‡
 - Demolition Man †
@@ -27,6 +28,7 @@ See also: [Awesome Mega Drive Games](./README.md#awesome-mega-drive-games)
 
 ### Good Action RPG Games
 
+- Arcus Odyssey
 - The Immortal
 - Land Stalker ‡
 - Light Crusader ‡
@@ -121,6 +123,7 @@ See also: [Awesome Mega Drive Games](./README.md#awesome-mega-drive-games)
 - F1 ~ Vroom
 - Lotus Turbo Challenge ~ Lotus II
 - Lotus II ~ Lotus III
+- Outrun 2019
 - Road Blasters
 - Road Rash 3 ‡
 - Skitchin'

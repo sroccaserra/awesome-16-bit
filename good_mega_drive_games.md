@@ -139,9 +139,10 @@ See also: [Awesome Mega Drive Games](./README.md#awesome-mega-drive-games)
 - Warsong ~ Langrisser
 - Ys III: Wanderers from Ys †
 
-### Good RTSs
+### Good RTS / Simulation Games
 
 - Dune - The Battle for Arrakis ~ Dune II
+- Pirates! Gold
 - Star Control
 - Starflight
 - Tyrants ~ Mega-Lo-Mania

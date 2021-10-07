@@ -429,6 +429,8 @@ See also: [Good Neo Geo Games](./good_neo_geo_games.md)
 
 ## Awesome PC Engine Games
 
+![image](images/320px-NEC-TurboDuo-Console-wController-L.jpg)
+
 - **Adventure Island** ~ Wonder Boy III: The Dragon's Trap †
 - Aero Blasters
 - Air Zonk ‡

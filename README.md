@@ -276,7 +276,7 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 
 ## Awesome Mega Drive Games
 
-![image](images/320px-Sega_Mega_Drive_PAL.jpg)
+![image](images/320px-Sega-Mega-Drive-JP-Mk1-Console-Set.jpg)
 
 See also: [Good Mega Drive Games](./good_mega_drive_games.md)
 
@@ -373,6 +373,8 @@ See also: [Good Mega Drive Games](./good_mega_drive_games.md)
 - Sensible Soccer International
 
 ## Awesome Mega CD Games
+
+![image](images/320px-Sega-CD-Model2-Set.jpg)
 
 - **Bari-Arm**
 - Dennin Aleste ~ Robo Aleste

@@ -429,7 +429,7 @@ See also: [Good Neo Geo Games](./good_neo_geo_games.md)
 
 ## Awesome PC Engine Games
 
-![image](images/320px-NEC-TurboDuo-Console-wController-L.jpg)
+![image](images/PC-Engine-Console-Set.jpg)
 
 - **Adventure Island** ~ Wonder Boy III: The Dragon's Trap †
 - Aero Blasters
@@ -480,6 +480,8 @@ See also: [Good Neo Geo Games](./good_neo_geo_games.md)
 - Violent Soldier
 
 ## Awesome PC Engine CD Games
+
+![image](images/320px-NEC-TurboDuo-Console-wController-L.jpg)
 
 - **Akumajou Dracula X - Chi no Rondo** ‡
 - Bonanza Brothers

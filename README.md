@@ -27,6 +27,8 @@ See also:
 
 ## Awesome Amiga Games
 
+![image](images/309px-Amiga500_system.jpg)
+
 See also: [Good Amiga Games](./good_amiga_games.md)
 
 ### Awesome Action Games
@@ -498,6 +500,8 @@ See also: [Good Neo Geo Games](./good_neo_geo_games.md)
 - **Ys Book I & II** †
 
 ## Awesome Super Famicom Games
+
+![image](images/320px-Wikipedia_SNES_PAL.jpg)
 
 - Actraiser ‡
 - Actraiser 2 ‡

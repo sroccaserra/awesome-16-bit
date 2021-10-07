@@ -114,7 +114,7 @@ See also: [Good Amiga Games](./good_amiga_games.md)
 
 ## Awesome Arcade Games
 
-![image](images/326px-CPS1_CPU.JPG)
+![image](images/progear_small.png)
 
 Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco Mega System 32, and CPS-3 games).
 

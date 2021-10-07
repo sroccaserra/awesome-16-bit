@@ -114,6 +114,8 @@ See also: [Good Amiga Games](./good_amiga_games.md)
 
 ## Awesome Arcade Games
 
+![image](images/326px-CPS1_CPU.JPG)
+
 Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco Mega System 32, and CPS-3 games).
 
 - 64th Street - A Detective Story
@@ -274,6 +276,8 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 
 ## Awesome Mega Drive Games
 
+![image](images/320px-Sega_Mega_Drive_PAL.jpg)
+
 See also: [Good Mega Drive Games](./good_mega_drive_games.md)
 
 ### Awesome Action Games
@@ -386,6 +390,8 @@ See also: [Good Mega Drive Games](./good_mega_drive_games.md)
 - Vay
 
 ## Awesome Neo Geo Games
+
+![image](images/320px-Neo-Geo-AES-Console-Set.jpg)
 
 See also: [Good Neo Geo Games](./good_neo_geo_games.md)
 

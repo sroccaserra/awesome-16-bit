@@ -21,9 +21,11 @@ See also: [Awesome Mega Drive Games](./README.md#awesome-mega-drive-games)
 - Panorama Cotton ‡
 - Robocop Versus the Terminator †
 - Rolling Thunder 3 ‡
+- Shadow Blasters ‡
 - Ultracore ‡
 - Universal Soldier ~ Turrican II
 - Valis III †
+- Wardner
 - X-Men 2: Clone Wars
 
 ### Good Action RPG Games

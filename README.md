@@ -17,13 +17,16 @@ See also:
 - [Awesome Game Boy Advance Games][agba]
 - [Awesome Video Game Music][avgm]
 
-[anes]: https://gist.github.com/sroccaserra/0acb0a7224e0a553f703a26bb906fb10
-[agba]: https://gist.github.com/sroccaserra/07e0ca5893cdebbdb2f44bcd4982d882
-[avgm]: https://github.com/sroccaserra/awsome-video-game-music
+Most pictures come from the awesome [Vanamo Online Game Museum][vanamo].
 
 †: Best version of a multi platform game.
 
 ‡: Exclusive game.
+
+[anes]: https://gist.github.com/sroccaserra/0acb0a7224e0a553f703a26bb906fb10
+[agba]: https://gist.github.com/sroccaserra/07e0ca5893cdebbdb2f44bcd4982d882
+[avgm]: https://github.com/sroccaserra/awsome-video-game-music
+[vanamo]: https://commons.wikimedia.org/wiki/User:Evan-Amos
 
 ## Awesome Amiga Games
 

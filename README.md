@@ -165,6 +165,7 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 - Dungeon Magic ~ Light Bringer
 - **Dungeons and Dragons: Shadow over Mystara**
 - **Dungeons and Dragons: Tower of Doom**
+- Dyna Gear
 - **Elevator Action Returns**
 - **Espgaluda**
 - **Final Fight**

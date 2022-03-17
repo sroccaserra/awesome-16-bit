@@ -215,6 +215,7 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 - Ninja Spirit
 - The Outfoxies
 - Out Zone
+- **Outrun**
 - P-47 Aces
 - P-47 The Phantom Fighter
 - **Parodius Da!**

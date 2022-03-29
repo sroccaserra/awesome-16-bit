@@ -238,6 +238,7 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 - **Shinobi**
 - Sly Spy
 - Snow Bros.: Nick & Tom
+- Spectral vs. Generation
 - Spider-Man: The Video Game
 - Splatter House
 - Street Fighter II: The World Warrior

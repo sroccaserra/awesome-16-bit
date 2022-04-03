@@ -570,6 +570,9 @@ See also: [Good Neo Geo Games](./good_neo_geo_games.md)
 - **Final Fight Tough** ~ Final Fight 3 ‡
 - First Samurai
 - Front Mission: Gun Hazard ‡
+- Ganbare Goemon: Yukihime Kyuushutsu Emaki ~ The Legend of the Mystical Ninja ‡
+- **Ganbare Goemon 2: Kiteretsu shōgun Magginesu** ‡
+- Ganbare Goemon 3: Shishijūrokubē no Karakuri Manji Gatame ‡
 - Ghost Chaser Densei ~ Denjin Makai ‡
 - Ghost Sweeper Mikami Joreishi wa Nice Body ‡
 - Gods
@@ -595,7 +598,6 @@ See also: [Good Neo Geo Games](./good_neo_geo_games.md)
 - **Kirby Super Star** †
 - **Knights of the Round**
 - Legend
-- Legend of the Mystical Ninja
 - **The Legend of Zelda: A Link to the Past** ‡
 - Lucky Luke
 - Lufia II

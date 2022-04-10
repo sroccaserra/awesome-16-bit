@@ -144,6 +144,7 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 - Captain America and the Avengers
 - Captain Commando
 - Carrier Airwing
+- The Cliffhanger: Edward Randy
 - The Combatribes
 - Cosmic Cop
 - Cosmo Gang

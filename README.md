@@ -124,6 +124,7 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 - 64th Street - A Detective Story
 - Alien Storm
 - **Alien vs. Predator**
+- Aliens
 - Arabian Magic
 - Ashura Blaster
 - Area 88 ~ U.N. Squadron
@@ -184,6 +185,7 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 - Gratia - Second Earth
 - Guardians: Denjin Makai II
 - Gunforce 2
+- Gunnail
 - Hangzo
 - Hat Trick Hero ~ Football Champ
 - Heavy Unit
@@ -232,6 +234,7 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 - **Raiden DX**
 - **Rainbow Islands: The Story of Bubble Bobble 2**
 - **Rayforce** (Gunlock / Layer Section)
+- Riot
 - Rod Land (Yousei Monogatari Rod Land)
 - Rolling Thunder
 - Saint Dragon

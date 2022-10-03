@@ -195,6 +195,7 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 - Image Fight
 - In the Hunt ~ Undersea War / Kaitei Daisensou
 - Joe and Mac: Caveman Ninja
+- Karate Blazers (Tōshin Blazers)
 - Karnov
 - **Ketsui - Kizuna Jigoku Tachi**
 - **The King of Dragons**

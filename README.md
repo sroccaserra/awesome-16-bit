@@ -473,6 +473,7 @@ See also: [Good Neo Geo Games](./good_neo_geo_games.md)
 - The New Zealand Story
 - Ordyne ‡
 - Override ‡
+- Paranoia ~ Psychosis
 - **Parasol Stars - The Story of Bubble Bobble 3** †
 - **Parodius Da! - Shinwa kara Owarai e**
 - **PC Denjin - Punkic Cyborgs** ‡

@@ -191,6 +191,7 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 - Heavy Unit
 - Hellfire
 - Hook
+- Hotdog Storm
 - Hyper Duel
 - Image Fight
 - In the Hunt ~ Undersea War / Kaitei Daisensou

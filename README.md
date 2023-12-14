@@ -179,6 +179,7 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 - Gaia Crusaders
 - Gaiapolis
 - GigaWing
+- The Gladiator : Road of the Sword
 - **Golden Axe**
 - Golden Axe: The Revenge of Death Adder
 - **Gradius**

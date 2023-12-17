@@ -196,7 +196,8 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 - Hyper Duel
 - Image Fight
 - In the Hunt ~ Undersea War / Kaitei Daisensou
-- Joe and Mac: Caveman Ninja
+- Joe & Mac: Caveman Ninja
+- Joe & Mac Return
 - Karate Blazers (Tōshin Blazers)
 - Karnov
 - **Ketsui - Kizuna Jigoku Tachi**

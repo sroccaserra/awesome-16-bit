@@ -269,13 +269,14 @@ Note: this section contains a few 32 bit games (the Taito F3, System-32, Jaleco 
 - Thunder Cross II
 - Thunder Dragon 2
 - Thunder Fox
-- Toki
+- **Toki** ~ JuJu Densetsu
 - Tumblepop
 - Turbo Force
 - Undercover Cops
 - V・V ~ Grind Stormer
-- Vampire Hunter II
-- Vampire Savior II
+- Vampire Hunter ~ Night Warriors: Darkstalkers' Revenge
+- Vampire Hunter II (modified Vampire Savior with Vampire Hunter characters)
+- **Vampire Savior: The Lord of Vampire** ~ Vampire Savior: World of Darkness ~ Darkstalkers 3
 - Vendetta
 - Vimana
 - Violent Storm
